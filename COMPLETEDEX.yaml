@@ -1,0 +1,7074 @@
+abomasnow:
+  bst: '494'
+  nf_type1: Grass
+  nf_type2: Ice
+  type1: Grass
+  type2: Ice
+abomasnow mega:
+  bst: '594'
+  nf_type1: Grass
+  nf_type2: Ice
+  type1: Grass
+  type2: Ice
+abra:
+  bst: '310'
+  nf_type1: Psychic
+  nf_type2: Monotype
+  type1: Psychic
+  type2: Monotype
+absol:
+  bst: '465'
+  nf_type1: Dark
+  nf_type2: Monotype
+  type1: Dark
+  type2: Monotype
+absol mega:
+  bst: '565'
+  nf_type1: Dark
+  nf_type2: Monotype
+  type1: Dark
+  type2: Monotype
+accelgor:
+  bst: '495'
+  nf_type1: Bug
+  nf_type2: Monotype
+  type1: Bug
+  type2: Monotype
+aegislash:
+  bst: '500'
+  nf_type1: Steel
+  nf_type2: Ghost
+  type1: Steel
+  type2: Ghost
+aerodactyl:
+  bst: '515'
+  nf_type1: Rock
+  nf_type2: Flying
+  type1: Rock
+  type2: Flying
+aerodactyl mega:
+  bst: '615'
+  nf_type1: Rock
+  nf_type2: Flying
+  type1: Rock
+  type2: Flying
+aggron:
+  bst: '530'
+  nf_type1: Steel
+  nf_type2: Rock
+  type1: Steel
+  type2: Rock
+aggron mega:
+  bst: '630'
+  nf_type1: Steel
+  nf_type2: Monotype
+  type1: Steel
+  type2: Monotype
+aipom:
+  bst: '360'
+  nf_type1: Normal
+  nf_type2: Monotype
+  type1: Normal
+  type2: Monotype
+alakazam:
+  bst: '500'
+  nf_type1: Psychic
+  nf_type2: Monotype
+  type1: Psychic
+  type2: Monotype
+alakazam mega:
+  bst: '590'
+  nf_type1: Psychic
+  nf_type2: Monotype
+  type1: Psychic
+  type2: Monotype
+alcremie:
+  bst: '495'
+  nf_type1: Fairy
+  nf_type2: Monotype
+  type1: Fairy
+  type2: Monotype
+alomomola:
+  bst: '470'
+  nf_type1: Water
+  nf_type2: Monotype
+  type1: Water
+  type2: Monotype
+altaria:
+  bst: '490'
+  nf_type1: Dragon
+  nf_type2: Flying
+  type1: Dragon
+  type2: Flying
+altaria mega:
+  bst: '590'
+  nf_type1: Dragon
+  nf_type2: Fairy
+  type1: Dragon
+  type2: Fairy
+amaura:
+  bst: '362'
+  nf_type1: Rock
+  nf_type2: Ice
+  type1: Rock
+  type2: Ice
+ambipom:
+  bst: '482'
+  nf_type1: Normal
+  nf_type2: Monotype
+  type1: Normal
+  type2: Monotype
+amoonguss:
+  bst: '464'
+  nf_type1: Grass
+  nf_type2: Poison
+  type1: Grass
+  type2: Poison
+ampharos:
+  bst: '510'
+  nf_type1: Electric
+  nf_type2: Monotype
+  type1: Electric
+  type2: Monotype
+ampharos mega:
+  bst: '610'
+  nf_type1: Electric
+  nf_type2: Dragon
+  type1: Electric
+  type2: Dragon
+annihilape:
+  bst: '535'
+  nf_type1: Fighting
+  nf_type2: Ghost
+  type1: Fighting
+  type2: Ghost
+anorith:
+  bst: '355'
+  nf_type1: Rock
+  nf_type2: Bug
+  type1: Rock
+  type2: Bug
+appletun:
+  bst: '485'
+  nf_type1: Grass
+  nf_type2: Dragon
+  type1: Grass
+  type2: Dragon
+applin:
+  bst: '260'
+  nf_type1: Grass
+  nf_type2: Dragon
+  type1: Grass
+  type2: Dragon
+araquanid:
+  bst: '454'
+  nf_type1: Water
+  nf_type2: Bug
+  type1: Water
+  type2: Bug
+arbok:
+  bst: '448'
+  nf_type1: Poison
+  nf_type2: Monotype
+  type1: Poison
+  type2: Monotype
+arboliva:
+  bst: '510'
+  nf_type1: Grass
+  nf_type2: Normal
+  type1: Grass
+  type2: Normal
+arcanine:
+  bst: '555'
+  nf_type1: Fire
+  nf_type2: Monotype
+  type1: Fire
+  type2: Monotype
+arcanine hisuian:
+  bst: '555'
+  nf_type1: Fire
+  nf_type2: Rock
+  type1: Fire
+  type2: Rock
+arceus:
+  bst: '720'
+  nf_type1: Normal
+  nf_type2: Monotype
+  type1: Normal
+  type2: Monotype
+archaludon:
+  bst: 600
+  nf_type1: steel
+  nf_type2: dragon
+  type1: steel
+  type2: dragon
+archen:
+  bst: '401'
+  nf_type1: Rock
+  nf_type2: Flying
+  type1: Rock
+  type2: Flying
+archeops:
+  bst: '567'
+  nf_type1: Rock
+  nf_type2: Flying
+  type1: Rock
+  type2: Flying
+arctibax:
+  bst: '423'
+  nf_type1: Dragon
+  nf_type2: Ice
+  type1: Dragon
+  type2: Ice
+arctovish:
+  bst: '505'
+  nf_type1: Water
+  nf_type2: Ice
+  type1: Water
+  type2: Ice
+arctozolt:
+  bst: '505'
+  nf_type1: Electric
+  nf_type2: Ice
+  type1: Electric
+  type2: Ice
+ariados:
+  bst: '400'
+  nf_type1: Bug
+  nf_type2: Poison
+  type1: Bug
+  type2: Poison
+armaldo:
+  bst: '495'
+  nf_type1: Rock
+  nf_type2: Bug
+  type1: Rock
+  type2: Bug
+armarouge:
+  bst: '525'
+  nf_type1: Fire
+  nf_type2: Psychic
+  type1: Fire
+  type2: Psychic
+aromatisse:
+  bst: '462'
+  nf_type1: Fairy
+  nf_type2: Monotype
+  type1: Fairy
+  type2: Monotype
+aron:
+  bst: '330'
+  nf_type1: Steel
+  nf_type2: Rock
+  type1: Steel
+  type2: Rock
+arrokuda:
+  bst: '280'
+  nf_type1: Water
+  nf_type2: Monotype
+  type1: Water
+  type2: Monotype
+articuno:
+  bst: '580'
+  nf_type1: Ice
+  nf_type2: Flying
+  type1: Ice
+  type2: Flying
+articuno galarian:
+  bst: '580'
+  nf_type1: Psychic
+  nf_type2: Flying
+  type1: Psychic
+  type2: Flying
+ashgreninja:
+  bst: '640'
+  nf_type1: Water
+  nf_type2: Dark
+  type1: Water
+  type2: Dark
+audino:
+  bst: '445'
+  nf_type1: Normal
+  nf_type2: Monotype
+  type1: Normal
+  type2: Monotype
+audino mega:
+  bst: '545'
+  nf_type1: Normal
+  nf_type2: Fairy
+  type1: Normal
+  type2: Fairy
+aurorus:
+  bst: '521'
+  nf_type1: Rock
+  nf_type2: Ice
+  type1: Rock
+  type2: Ice
+avalugg:
+  bst: '514'
+  nf_type1: Ice
+  nf_type2: Monotype
+  type1: Ice
+  type2: Monotype
+avalugg hisuian:
+  bst: '514'
+  nf_type1: Ice
+  nf_type2: Rock
+  type1: Ice
+  type2: Rock
+axew:
+  bst: '320'
+  nf_type1: Dragon
+  nf_type2: Monotype
+  type1: Dragon
+  type2: Monotype
+azelf:
+  bst: '580'
+  nf_type1: Psychic
+  nf_type2: Monotype
+  type1: Psychic
+  type2: Monotype
+azumarill:
+  bst: '420'
+  nf_type1: Water
+  nf_type2: Monotype
+  type1: Water
+  type2: Fairy
+azurill:
+  bst: '190'
+  nf_type1: Normal
+  nf_type2: Monotype
+  type1: Normal
+  type2: Fairy
+bagon:
+  bst: '300'
+  nf_type1: Dragon
+  nf_type2: Monotype
+  type1: Dragon
+  type2: Monotype
+baltoy:
+  bst: '300'
+  nf_type1: Ground
+  nf_type2: Psychic
+  type1: Ground
+  type2: Psychic
+banette:
+  bst: '455'
+  nf_type1: Ghost
+  nf_type2: Monotype
+  type1: Ghost
+  type2: Monotype
+banette mega:
+  bst: '555'
+  nf_type1: Ghost
+  nf_type2: Monotype
+  type1: Ghost
+  type2: Monotype
+barbaracle:
+  bst: '500'
+  nf_type1: Rock
+  nf_type2: Water
+  type1: Rock
+  type2: Water
+barboach:
+  bst: '288'
+  nf_type1: Water
+  nf_type2: Ground
+  type1: Water
+  type2: Ground
+barraskewda:
+  bst: '490'
+  nf_type1: Water
+  nf_type2: Monotype
+  type1: Water
+  type2: Monotype
+basculegion male:
+  bst: '530'
+  nf_type1: Water
+  nf_type2: Ghost
+  type1: Water
+  type2: Ghost
+basculin:
+  bst: '460'
+  nf_type1: Water
+  nf_type2: Monotype
+  type1: Water
+  type2: Monotype
+basculin hisuian:
+  bst: '460'
+  nf_type1: Water
+  nf_type2: Monotype
+  type1: Water
+  type2: Monotype
+bastiodon:
+  bst: '495'
+  nf_type1: Rock
+  nf_type2: Steel
+  type1: Rock
+  type2: Steel
+baxcalibur:
+  bst: '600'
+  nf_type1: Dragon
+  nf_type2: Ice
+  type1: Dragon
+  type2: Ice
+bayleef:
+  bst: '414'
+  nf_type1: Grass
+  nf_type2: Monotype
+  type1: Grass
+  type2: Monotype
+beartic:
+  bst: '505'
+  nf_type1: Ice
+  nf_type2: Monotype
+  type1: Ice
+  type2: Monotype
+beautifly:
+  bst: '395'
+  nf_type1: Bug
+  nf_type2: Flying
+  type1: Bug
+  type2: Flying
+beedrill:
+  bst: '390'
+  nf_type1: Bug
+  nf_type2: Poison
+  type1: Bug
+  type2: Poison
+beedrill mega:
+  bst: '495'
+  nf_type1: Bug
+  nf_type2: Poison
+  type1: Bug
+  type2: Poison
+beheeyem:
+  bst: '485'
+  nf_type1: Psychic
+  nf_type2: Monotype
+  type1: Psychic
+  type2: Monotype
+beldum:
+  bst: '300'
+  nf_type1: Steel
+  nf_type2: Psychic
+  type1: Steel
+  type2: Psychic
+bellibolt:
+  bst: '495'
+  nf_type1: Electric
+  nf_type2: Monotype
+  type1: Electric
+  type2: Monotype
+bellossom:
+  bst: '490'
+  nf_type1: Grass
+  nf_type2: Monotype
+  type1: Grass
+  type2: Monotype
+bellsprout:
+  bst: '300'
+  nf_type1: Grass
+  nf_type2: Poison
+  type1: Grass
+  type2: Poison
+bergmite:
+  bst: '304'
+  nf_type1: Ice
+  nf_type2: Monotype
+  type1: Ice
+  type2: Monotype
+bewear:
+  bst: '500'
+  nf_type1: Normal
+  nf_type2: Fighting
+  type1: Normal
+  type2: Fighting
+bibarel:
+  bst: '410'
+  nf_type1: Normal
+  nf_type2: Water
+  type1: Normal
+  type2: Water
+bidoof:
+  bst: '250'
+  nf_type1: Normal
+  nf_type2: Monotype
+  type1: Normal
+  type2: Monotype
+binacle:
+  bst: '306'
+  nf_type1: Rock
+  nf_type2: Water
+  type1: Rock
+  type2: Water
+bisharp:
+  bst: '490'
+  nf_type1: Dark
+  nf_type2: Steel
+  type1: Dark
+  type2: Steel
+blacephalon:
+  bst: '570'
+  nf_type1: Fire
+  nf_type2: Ghost
+  type1: Fire
+  type2: Ghost
+blastoise:
+  bst: '530'
+  nf_type1: Water
+  nf_type2: Monotype
+  type1: Water
+  type2: Monotype
+blastoise mega:
+  bst: '630'
+  nf_type1: Water
+  nf_type2: Monotype
+  type1: Water
+  type2: Monotype
+blaziken:
+  bst: '530'
+  nf_type1: Fire
+  nf_type2: Fighting
+  type1: Fire
+  type2: Fighting
+blaziken mega:
+  bst: '630'
+  nf_type1: Fire
+  nf_type2: Fighting
+  type1: Fire
+  type2: Fighting
+blipbug:
+  bst: '180'
+  nf_type1: Bug
+  nf_type2: Monotype
+  type1: Bug
+  type2: Monotype
+blissey:
+  bst: '540'
+  nf_type1: Normal
+  nf_type2: Monotype
+  type1: Normal
+  type2: Monotype
+blitzle:
+  bst: '295'
+  nf_type1: Electric
+  nf_type2: Monotype
+  type1: Electric
+  type2: Monotype
+boldore:
+  bst: '390'
+  nf_type1: Rock
+  nf_type2: Monotype
+  type1: Rock
+  type2: Monotype
+boltund:
+  bst: '490'
+  nf_type1: Electric
+  nf_type2: Monotype
+  type1: Electric
+  type2: Monotype
+bombirdier:
+  bst: '485'
+  nf_type1: Flying
+  nf_type2: Dark
+  type1: Flying
+  type2: Dark
+bonsly:
+  bst: '290'
+  nf_type1: Rock
+  nf_type2: Monotype
+  type1: Rock
+  type2: Monotype
+bouffalant:
+  bst: '490'
+  nf_type1: Normal
+  nf_type2: Monotype
+  type1: Normal
+  type2: Monotype
+bounsweet:
+  bst: '210'
+  nf_type1: Grass
+  nf_type2: Monotype
+  type1: Grass
+  type2: Monotype
+braixen:
+  bst: '409'
+  nf_type1: Fire
+  nf_type2: Monotype
+  type1: Fire
+  type2: Monotype
+brambleghast:
+  bst: '480'
+  nf_type1: Grass
+  nf_type2: Ghost
+  type1: Grass
+  type2: Ghost
+bramblin:
+  bst: '275'
+  nf_type1: Grass
+  nf_type2: Ghost
+  type1: Grass
+  type2: Ghost
+braviary:
+  bst: '510'
+  nf_type1: Normal
+  nf_type2: Flying
+  type1: Normal
+  type2: Flying
+braviary hisuian:
+  bst: '510'
+  nf_type1: Psychic
+  nf_type2: Flying
+  type1: Psychic
+  type2: Flying
+breloom:
+  bst: '460'
+  nf_type1: Grass
+  nf_type2: Fighting
+  type1: Grass
+  type2: Fighting
+brionne:
+  bst: '420'
+  nf_type1: Water
+  nf_type2: Monotype
+  type1: Water
+  type2: Monotype
+bronzong:
+  bst: '500'
+  nf_type1: Steel
+  nf_type2: Psychic
+  type1: Steel
+  type2: Psychic
+bronzor:
+  bst: '300'
+  nf_type1: Steel
+  nf_type2: Psychic
+  type1: Steel
+  type2: Psychic
+brute bonnet:
+  bst: '570'
+  nf_type1: Grass
+  nf_type2: Dark
+  type1: Grass
+  type2: Dark
+bruxish:
+  bst: '475'
+  nf_type1: Water
+  nf_type2: Psychic
+  type1: Water
+  type2: Psychic
+budew:
+  bst: '280'
+  nf_type1: Grass
+  nf_type2: Poison
+  type1: Grass
+  type2: Poison
+buizel:
+  bst: '330'
+  nf_type1: Water
+  nf_type2: Monotype
+  type1: Water
+  type2: Monotype
+bulbasaur:
+  bst: '318'
+  nf_type1: Grass
+  nf_type2: Poison
+  type1: Grass
+  type2: Poison
+buneary:
+  bst: '350'
+  nf_type1: Normal
+  nf_type2: Monotype
+  type1: Normal
+  type2: Monotype
+bunnelby:
+  bst: '237'
+  nf_type1: Normal
+  nf_type2: Monotype
+  type1: Normal
+  type2: Monotype
+burmy plant:
+  bst: '224'
+  nf_type1: Bug
+  nf_type2: Monotype
+  type1: Bug
+  type2: Monotype
+burmy sandy:
+  bst: '224'
+  nf_type1: Bug
+  nf_type2: Monotype
+  type1: Bug
+  type2: Monotype
+burmy trash:
+  bst: '224'
+  nf_type1: Bug
+  nf_type2: Monotype
+  type1: Bug
+  type2: Monotype
+butterfree:
+  bst: '395'
+  nf_type1: Bug
+  nf_type2: Flying
+  type1: Bug
+  type2: Flying
+buzzwole:
+  bst: '570'
+  nf_type1: Bug
+  nf_type2: Fighting
+  type1: Bug
+  type2: Fighting
+cacnea:
+  bst: '335'
+  nf_type1: Grass
+  nf_type2: Monotype
+  type1: Grass
+  type2: Monotype
+cacturne:
+  bst: '475'
+  nf_type1: Grass
+  nf_type2: Dark
+  type1: Grass
+  type2: Dark
+calyrex:
+  bst: '500'
+  nf_type1: Psychic
+  nf_type2: Grass
+  type1: Psychic
+  type2: Grass
+calyrex ice rider:
+  bst: '680'
+  nf_type1: Psychic
+  nf_type2: Ice
+  type1: Psychic
+  type2: Ice
+calyrex shadow rider:
+  bst: '680'
+  nf_type1: Psychic
+  nf_type2: Ghost
+  type1: Psychic
+  type2: Ghost
+camerupt:
+  bst: '460'
+  nf_type1: Fire
+  nf_type2: Ground
+  type1: Fire
+  type2: Ground
+camerupt mega:
+  bst: '560'
+  nf_type1: Fire
+  nf_type2: Ground
+  type1: Fire
+  type2: Ground
+capsakid:
+  bst: '304'
+  nf_type1: Grass
+  nf_type2: Monotype
+  type1: Grass
+  type2: Monotype
+carbink:
+  bst: '500'
+  nf_type1: Rock
+  nf_type2: Fairy
+  type1: Rock
+  type2: Fairy
+carkol:
+  bst: '410'
+  nf_type1: Rock
+  nf_type2: Fire
+  type1: Rock
+  type2: Fire
+carnivine:
+  bst: '454'
+  nf_type1: Grass
+  nf_type2: Monotype
+  type1: Grass
+  type2: Monotype
+carracosta:
+  bst: '495'
+  nf_type1: Water
+  nf_type2: Rock
+  type1: Water
+  type2: Rock
+carvanha:
+  bst: '305'
+  nf_type1: Water
+  nf_type2: Dark
+  type1: Water
+  type2: Dark
+cascoon:
+  bst: '205'
+  nf_type1: Bug
+  nf_type2: Monotype
+  type1: Bug
+  type2: Monotype
+castform normal:
+  bst: '420'
+  nf_type1: Normal
+  nf_type2: Monotype
+  type1: Normal
+  type2: Monotype
+castform rainy:
+  bst: '420'
+  nf_type1: Water
+  nf_type2: Monotype
+  type1: Water
+  type2: Monotype
+castform snowy:
+  bst: '420'
+  nf_type1: Ice
+  nf_type2: Monotype
+  type1: Ice
+  type2: Monotype
+castform sunny:
+  bst: '420'
+  nf_type1: Fire
+  nf_type2: Monotype
+  type1: Fire
+  type2: Monotype
+caterpie:
+  bst: '195'
+  nf_type1: Bug
+  nf_type2: Monotype
+  type1: Bug
+  type2: Monotype
+celebi:
+  bst: '600'
+  nf_type1: Psychic
+  nf_type2: Grass
+  type1: Psychic
+  type2: Grass
+celesteela:
+  bst: '570'
+  nf_type1: Steel
+  nf_type2: Flying
+  type1: Steel
+  type2: Flying
+centiskorch:
+  bst: '525'
+  nf_type1: Fire
+  nf_type2: Bug
+  type1: Fire
+  type2: Bug
+ceruledge:
+  bst: '525'
+  nf_type1: Fire
+  nf_type2: Ghost
+  type1: Fire
+  type2: Ghost
+cetitan:
+  bst: '521'
+  nf_type1: Ice
+  nf_type2: Monotype
+  type1: Ice
+  type2: Monotype
+cetoddle:
+  bst: '334'
+  nf_type1: Ice
+  nf_type2: Monotype
+  type1: Ice
+  type2: Monotype
+chandelure:
+  bst: '520'
+  nf_type1: Ghost
+  nf_type2: Fire
+  type1: Ghost
+  type2: Fire
+chansey:
+  bst: '450'
+  nf_type1: Normal
+  nf_type2: Monotype
+  type1: Normal
+  type2: Monotype
+charcadet:
+  bst: '255'
+  nf_type1: Fire
+  nf_type2: Monotype
+  type1: Fire
+  type2: Monotype
+charizard:
+  bst: '534'
+  nf_type1: Fire
+  nf_type2: Flying
+  type1: Fire
+  type2: Flying
+charizard mega x:
+  bst: '634'
+  nf_type1: Fire
+  nf_type2: Dragon
+  type1: Fire
+  type2: Dragon
+charizard mega y:
+  bst: '634'
+  nf_type1: Fire
+  nf_type2: Flying
+  type1: Fire
+  type2: Flying
+charjabug:
+  bst: '400'
+  nf_type1: Bug
+  nf_type2: Electric
+  type1: Bug
+  type2: Electric
+charmander:
+  bst: '309'
+  nf_type1: Fire
+  nf_type2: Monotype
+  type1: Fire
+  type2: Monotype
+charmeleon:
+  bst: '405'
+  nf_type1: Fire
+  nf_type2: Monotype
+  type1: Fire
+  type2: Monotype
+chatot:
+  bst: '411'
+  nf_type1: Normal
+  nf_type2: Flying
+  type1: Normal
+  type2: Flying
+cherrim:
+  bst: '450'
+  nf_type1: Grass
+  nf_type2: Monotype
+  type1: Grass
+  type2: Monotype
+cherubi:
+  bst: '275'
+  nf_type1: Grass
+  nf_type2: Monotype
+  type1: Grass
+  type2: Monotype
+chesnaught:
+  bst: '530'
+  nf_type1: Grass
+  nf_type2: Fighting
+  type1: Grass
+  type2: Fighting
+chespin:
+  bst: '313'
+  nf_type1: Grass
+  nf_type2: Monotype
+  type1: Grass
+  type2: Monotype
+chewtle:
+  bst: '284'
+  nf_type1: Water
+  nf_type2: Monotype
+  type1: Water
+  type2: Monotype
+chienpao:
+  bst: '570'
+  nf_type1: Dark
+  nf_type2: Ice
+  type1: Dark
+  type2: Ice
+chikorita:
+  bst: '318'
+  nf_type1: Grass
+  nf_type2: Monotype
+  type1: Grass
+  type2: Monotype
+chimchar:
+  bst: '309'
+  nf_type1: Fire
+  nf_type2: Monotype
+  type1: Fire
+  type2: Monotype
+chimecho:
+  bst: '464'
+  nf_type1: Psychic
+  nf_type2: Monotype
+  type1: Psychic
+  type2: Monotype
+chinchou:
+  bst: '330'
+  nf_type1: Water
+  nf_type2: Electric
+  type1: Water
+  type2: Electric
+chingling:
+  bst: '285'
+  nf_type1: Psychic
+  nf_type2: Monotype
+  type1: Psychic
+  type2: Monotype
+chiyu:
+  bst: '570'
+  nf_type1: Dark
+  nf_type2: Fire
+  type1: Dark
+  type2: Fire
+cinccino:
+  bst: '470'
+  nf_type1: Normal
+  nf_type2: Monotype
+  type1: Normal
+  type2: Monotype
+cinderace:
+  bst: '530'
+  nf_type1: Fire
+  nf_type2: Monotype
+  type1: Fire
+  type2: Monotype
+clamperl:
+  bst: '345'
+  nf_type1: Water
+  nf_type2: Monotype
+  type1: Water
+  type2: Monotype
+clauncher:
+  bst: '330'
+  nf_type1: Water
+  nf_type2: Monotype
+  type1: Water
+  type2: Monotype
+clawitzer:
+  bst: '500'
+  nf_type1: Water
+  nf_type2: Monotype
+  type1: Water
+  type2: Monotype
+claydol:
+  bst: '500'
+  nf_type1: Ground
+  nf_type2: Psychic
+  type1: Ground
+  type2: Psychic
+clefable:
+  bst: '483'
+  nf_type1: Normal
+  nf_type2: Monotype
+  type1: Fairy
+  type2: Monotype
+clefairy:
+  bst: '323'
+  nf_type1: Normal
+  nf_type2: Monotype
+  type1: Fairy
+  type2: Monotype
+cleffa:
+  bst: '218'
+  nf_type1: Normal
+  nf_type2: Monotype
+  type1: Fairy
+  type2: Monotype
+clobbopus:
+  bst: '310'
+  nf_type1: Fighting
+  nf_type2: Monotype
+  type1: Fighting
+  type2: Monotype
+clodsire:
+  bst: '430'
+  nf_type1: Poison
+  nf_type2: Ground
+  type1: Poison
+  type2: Ground
+cloyster:
+  bst: '525'
+  nf_type1: Water
+  nf_type2: Ice
+  type1: Water
+  type2: Ice
+coalossal:
+  bst: '510'
+  nf_type1: Rock
+  nf_type2: Fire
+  type1: Rock
+  type2: Fire
+cobalion:
+  bst: '580'
+  nf_type1: Steel
+  nf_type2: Fighting
+  type1: Steel
+  type2: Fighting
+cofagrigus:
+  bst: '483'
+  nf_type1: Ghost
+  nf_type2: Monotype
+  type1: Ghost
+  type2: Monotype
+combee:
+  bst: '244'
+  nf_type1: Bug
+  nf_type2: Flying
+  type1: Bug
+  type2: Flying
+combusken:
+  bst: '405'
+  nf_type1: Fire
+  nf_type2: Fighting
+  type1: Fire
+  type2: Fighting
+comfey:
+  bst: '485'
+  nf_type1: Fairy
+  nf_type2: Monotype
+  type1: Fairy
+  type2: Monotype
+conkeldurr:
+  bst: '505'
+  nf_type1: Fighting
+  nf_type2: Monotype
+  type1: Fighting
+  type2: Monotype
+copperajah:
+  bst: '500'
+  nf_type1: Steel
+  nf_type2: Monotype
+  type1: Steel
+  type2: Monotype
+corphish:
+  bst: '308'
+  nf_type1: Water
+  nf_type2: Monotype
+  type1: Water
+  type2: Monotype
+corsola:
+  bst: '410'
+  nf_type1: Water
+  nf_type2: Rock
+  type1: Water
+  type2: Rock
+corsola galarian:
+  bst: '410'
+  nf_type1: Ghost
+  nf_type2: Monotype
+  type1: Ghost
+  type2: Monotype
+corviknight:
+  bst: '495'
+  nf_type1: Flying
+  nf_type2: Steel
+  type1: Flying
+  type2: Steel
+corvisquire:
+  bst: '365'
+  nf_type1: Flying
+  nf_type2: Monotype
+  type1: Flying
+  type2: Monotype
+cosmoem:
+  bst: '400'
+  nf_type1: Psychic
+  nf_type2: Monotype
+  type1: Psychic
+  type2: Monotype
+cosmog:
+  bst: '200'
+  nf_type1: Psychic
+  nf_type2: Monotype
+  type1: Psychic
+  type2: Monotype
+cottonee:
+  bst: '280'
+  nf_type1: Grass
+  nf_type2: Monotype
+  type1: Grass
+  type2: Fairy
+crabominable:
+  bst: '478'
+  nf_type1: Fighting
+  nf_type2: Ice
+  type1: Fighting
+  type2: Ice
+crabrawler:
+  bst: '338'
+  nf_type1: Fighting
+  nf_type2: Monotype
+  type1: Fighting
+  type2: Monotype
+cradily:
+  bst: '495'
+  nf_type1: Rock
+  nf_type2: Grass
+  type1: Rock
+  type2: Grass
+cramorant:
+  bst: '475'
+  nf_type1: Flying
+  nf_type2: Water
+  type1: Flying
+  type2: Water
+cranidos:
+  bst: '350'
+  nf_type1: Rock
+  nf_type2: Monotype
+  type1: Rock
+  type2: Monotype
+crawdaunt:
+  bst: '468'
+  nf_type1: Water
+  nf_type2: Dark
+  type1: Water
+  type2: Dark
+cresselia:
+  bst: '580'
+  nf_type1: Psychic
+  nf_type2: Monotype
+  type1: Psychic
+  type2: Monotype
+croagunk:
+  bst: '300'
+  nf_type1: Poison
+  nf_type2: Fighting
+  type1: Poison
+  type2: Fighting
+crobat:
+  bst: '535'
+  nf_type1: Poison
+  nf_type2: Flying
+  type1: Poison
+  type2: Flying
+crocalor:
+  bst: '411'
+  nf_type1: Fire
+  nf_type2: Monotype
+  type1: Fire
+  type2: Monotype
+croconaw:
+  bst: '405'
+  nf_type1: Water
+  nf_type2: Monotype
+  type1: Water
+  type2: Monotype
+crustle:
+  bst: '485'
+  nf_type1: Bug
+  nf_type2: Rock
+  type1: Bug
+  type2: Rock
+cryogonal:
+  bst: '515'
+  nf_type1: Ice
+  nf_type2: Monotype
+  type1: Ice
+  type2: Monotype
+cubchoo:
+  bst: '305'
+  nf_type1: Ice
+  nf_type2: Monotype
+  type1: Ice
+  type2: Monotype
+cubone:
+  bst: '320'
+  nf_type1: Ground
+  nf_type2: Monotype
+  type1: Ground
+  type2: Monotype
+cufant:
+  bst: '330'
+  nf_type1: Steel
+  nf_type2: Monotype
+  type1: Steel
+  type2: Monotype
+cursola:
+  bst: '510'
+  nf_type1: Ghost
+  nf_type2: Monotype
+  type1: Ghost
+  type2: Monotype
+cutiefly:
+  bst: '304'
+  nf_type1: Bug
+  nf_type2: Fairy
+  type1: Bug
+  type2: Fairy
+cyclizar:
+  bst: '501'
+  nf_type1: Dragon
+  nf_type2: Normal
+  type1: Dragon
+  type2: Normal
+cyndaquil:
+  bst: '309'
+  nf_type1: Fire
+  nf_type2: Monotype
+  type1: Fire
+  type2: Monotype
+dachsbun:
+  bst: '477'
+  nf_type1: Fairy
+  nf_type2: Monotype
+  type1: Fairy
+  type2: Monotype
+darkrai:
+  bst: '600'
+  nf_type1: Dark
+  nf_type2: Monotype
+  type1: Dark
+  type2: Monotype
+darmanitan:
+  bst: '480'
+  nf_type1: Fire
+  nf_type2: Monotype
+  type1: Fire
+  type2: Monotype
+darmanitan galarian:
+  bst: '480'
+  nf_type1: Ice
+  nf_type2: Monotype
+  type1: Ice
+  type2: Monotype
+darmanitan galarian zen mode:
+  bst: '540'
+  nf_type1: Ice
+  nf_type2: Fire
+  type1: Ice
+  type2: Fire
+darmanitan zen mode:
+  bst: '540'
+  nf_type1: Fire
+  nf_type2: Psychic
+  type1: Fire
+  type2: Psychic
+dartrix:
+  bst: '420'
+  nf_type1: Grass
+  nf_type2: Flying
+  type1: Grass
+  type2: Flying
+darumaka:
+  bst: '315'
+  nf_type1: Fire
+  nf_type2: Monotype
+  type1: Fire
+  type2: Monotype
+darumaka galarian:
+  bst: '315'
+  nf_type1: Ice
+  nf_type2: Monotype
+  type1: Ice
+  type2: Monotype
+decidueye:
+  bst: '530'
+  nf_type1: Grass
+  nf_type2: Ghost
+  type1: Grass
+  type2: Ghost
+decidueye hisuian:
+  bst: '530'
+  nf_type1: Grass
+  nf_type2: Fighting
+  type1: Grass
+  type2: Fighting
+dedenne:
+  bst: '431'
+  nf_type1: Electric
+  nf_type2: Fairy
+  type1: Electric
+  type2: Fairy
+deerling:
+  bst: '335'
+  nf_type1: Normal
+  nf_type2: Grass
+  type1: Normal
+  type2: Grass
+deino:
+  bst: '300'
+  nf_type1: Dark
+  nf_type2: Dragon
+  type1: Dark
+  type2: Dragon
+delcatty:
+  bst: '400'
+  nf_type1: Normal
+  nf_type2: Monotype
+  type1: Normal
+  type2: Monotype
+delibird:
+  bst: '330'
+  nf_type1: Ice
+  nf_type2: Flying
+  type1: Ice
+  type2: Flying
+delphox:
+  bst: '534'
+  nf_type1: Fire
+  nf_type2: Psychic
+  type1: Fire
+  type2: Psychic
+deoxys:
+  bst: '600'
+  nf_type1: Psychic
+  nf_type2: Monotype
+  type1: Psychic
+  type2: Monotype
+dewgong:
+  bst: '475'
+  nf_type1: Water
+  nf_type2: Ice
+  type1: Water
+  type2: Ice
+dewott:
+  bst: '413'
+  nf_type1: Water
+  nf_type2: Monotype
+  type1: Water
+  type2: Monotype
+dewpider:
+  bst: '269'
+  nf_type1: Water
+  nf_type2: Bug
+  type1: Water
+  type2: Bug
+dhelmise:
+  bst: '517'
+  nf_type1: Ghost
+  nf_type2: Grass
+  type1: Ghost
+  type2: Grass
+dialga:
+  bst: '680'
+  nf_type1: Steel
+  nf_type2: Dragon
+  type1: Steel
+  type2: Dragon
+diancie:
+  bst: '600'
+  nf_type1: Rock
+  nf_type2: Fairy
+  type1: Rock
+  type2: Fairy
+diancie mega:
+  bst: '700'
+  nf_type1: Rock
+  nf_type2: Fairy
+  type1: Rock
+  type2: Fairy
+diggersby:
+  bst: '423'
+  nf_type1: Normal
+  nf_type2: Ground
+  type1: Normal
+  type2: Ground
+diglett:
+  bst: '265'
+  nf_type1: Ground
+  nf_type2: Monotype
+  type1: Ground
+  type2: Monotype
+diglett alolan:
+  bst: '265'
+  nf_type1: Ground
+  nf_type2: Steel
+  type1: Ground
+  type2: Steel
+dipplin:
+  bst: 485
+  nf_type1: grass
+  nf_type2: dragon
+  type1: grass
+  type2: dragon
+ditto:
+  bst: '288'
+  nf_type1: Normal
+  nf_type2: Monotype
+  type1: Normal
+  type2: Monotype
+dodrio:
+  bst: '470'
+  nf_type1: Normal
+  nf_type2: Flying
+  type1: Normal
+  type2: Flying
+doduo:
+  bst: '310'
+  nf_type1: Normal
+  nf_type2: Flying
+  type1: Normal
+  type2: Flying
+dolliv:
+  bst: '354'
+  nf_type1: Grass
+  nf_type2: Normal
+  type1: Grass
+  type2: Normal
+dondozo:
+  bst: '530'
+  nf_type1: Water
+  nf_type2: Monotype
+  type1: Water
+  type2: Monotype
+donphan:
+  bst: '500'
+  nf_type1: Ground
+  nf_type2: Monotype
+  type1: Ground
+  type2: Monotype
+dottler:
+  bst: '335'
+  nf_type1: Bug
+  nf_type2: Psychic
+  type1: Bug
+  type2: Psychic
+doublade:
+  bst: '448'
+  nf_type1: Steel
+  nf_type2: Ghost
+  type1: Steel
+  type2: Ghost
+dracovish:
+  bst: '505'
+  nf_type1: Water
+  nf_type2: Dragon
+  type1: Water
+  type2: Dragon
+dracozolt:
+  bst: '505'
+  nf_type1: Electric
+  nf_type2: Dragon
+  type1: Electric
+  type2: Dragon
+dragalge:
+  bst: '494'
+  nf_type1: Poison
+  nf_type2: Dragon
+  type1: Poison
+  type2: Dragon
+dragapult:
+  bst: '600'
+  nf_type1: Dragon
+  nf_type2: Ghost
+  type1: Dragon
+  type2: Ghost
+dragonair:
+  bst: '420'
+  nf_type1: Dragon
+  nf_type2: Monotype
+  type1: Dragon
+  type2: Monotype
+dragonite:
+  bst: '600'
+  nf_type1: Dragon
+  nf_type2: Flying
+  type1: Dragon
+  type2: Flying
+drakloak:
+  bst: '410'
+  nf_type1: Dragon
+  nf_type2: Ghost
+  type1: Dragon
+  type2: Ghost
+drampa:
+  bst: '485'
+  nf_type1: Normal
+  nf_type2: Dragon
+  type1: Normal
+  type2: Dragon
+drapion:
+  bst: '500'
+  nf_type1: Poison
+  nf_type2: Dark
+  type1: Poison
+  type2: Dark
+dratini:
+  bst: '300'
+  nf_type1: Dragon
+  nf_type2: Monotype
+  type1: Dragon
+  type2: Monotype
+drednaw:
+  bst: '485'
+  nf_type1: Water
+  nf_type2: Rock
+  type1: Water
+  type2: Rock
+dreepy:
+  bst: '270'
+  nf_type1: Dragon
+  nf_type2: Ghost
+  type1: Dragon
+  type2: Ghost
+drifblim:
+  bst: '498'
+  nf_type1: Ghost
+  nf_type2: Flying
+  type1: Ghost
+  type2: Flying
+drifloon:
+  bst: '348'
+  nf_type1: Ghost
+  nf_type2: Flying
+  type1: Ghost
+  type2: Flying
+drilbur:
+  bst: '328'
+  nf_type1: Ground
+  nf_type2: Monotype
+  type1: Ground
+  type2: Monotype
+drizzile:
+  bst: '420'
+  nf_type1: Water
+  nf_type2: Monotype
+  type1: Water
+  type2: Monotype
+drowzee:
+  bst: '328'
+  nf_type1: Psychic
+  nf_type2: Monotype
+  type1: Psychic
+  type2: Monotype
+druddigon:
+  bst: '485'
+  nf_type1: Dragon
+  nf_type2: Monotype
+  type1: Dragon
+  type2: Monotype
+dubwool:
+  bst: '490'
+  nf_type1: Normal
+  nf_type2: Monotype
+  type1: Normal
+  type2: Monotype
+ducklett:
+  bst: '305'
+  nf_type1: Water
+  nf_type2: Flying
+  type1: Water
+  type2: Flying
+dudunsparce:
+  bst: '520'
+  nf_type1: Normal
+  nf_type2: Monotype
+  type1: Normal
+  type2: Monotype
+dugtrio:
+  bst: '425'
+  nf_type1: Ground
+  nf_type2: Monotype
+  type1: Ground
+  type2: Monotype
+dugtrio alolan:
+  bst: '425'
+  nf_type1: Ground
+  nf_type2: Steel
+  type1: Ground
+  type2: Steel
+dunsparce:
+  bst: '415'
+  nf_type1: Normal
+  nf_type2: Monotype
+  type1: Normal
+  type2: Monotype
+duosion:
+  bst: '370'
+  nf_type1: Psychic
+  nf_type2: Monotype
+  type1: Psychic
+  type2: Monotype
+duraludon:
+  bst: '535'
+  nf_type1: Steel
+  nf_type2: Dragon
+  type1: Steel
+  type2: Dragon
+durant:
+  bst: '484'
+  nf_type1: Bug
+  nf_type2: Steel
+  type1: Bug
+  type2: Steel
+dusclops:
+  bst: '455'
+  nf_type1: Ghost
+  nf_type2: Monotype
+  type1: Ghost
+  type2: Monotype
+dusknoir:
+  bst: '525'
+  nf_type1: Ghost
+  nf_type2: Monotype
+  type1: Ghost
+  type2: Monotype
+duskull:
+  bst: '295'
+  nf_type1: Ghost
+  nf_type2: Monotype
+  type1: Ghost
+  type2: Monotype
+dustox:
+  bst: '385'
+  nf_type1: Bug
+  nf_type2: Poison
+  type1: Bug
+  type2: Poison
+dwebble:
+  bst: '325'
+  nf_type1: Bug
+  nf_type2: Rock
+  type1: Bug
+  type2: Rock
+eelektrik:
+  bst: '405'
+  nf_type1: Electric
+  nf_type2: Monotype
+  type1: Electric
+  type2: Monotype
+eelektross:
+  bst: '515'
+  nf_type1: Electric
+  nf_type2: Monotype
+  type1: Electric
+  type2: Monotype
+eevee:
+  bst: '325'
+  nf_type1: Normal
+  nf_type2: Monotype
+  type1: Normal
+  type2: Monotype
+eiscue:
+  bst: '470'
+  nf_type1: Ice
+  nf_type2: Monotype
+  type1: Ice
+  type2: Monotype
+ekans:
+  bst: '283'
+  nf_type1: Poison
+  nf_type2: Monotype
+  type1: Poison
+  type2: Monotype
+eldegoss:
+  bst: '460'
+  nf_type1: Grass
+  nf_type2: Monotype
+  type1: Grass
+  type2: Monotype
+electabuzz:
+  bst: '490'
+  nf_type1: Electric
+  nf_type2: Monotype
+  type1: Electric
+  type2: Monotype
+electivire:
+  bst: '540'
+  nf_type1: Electric
+  nf_type2: Monotype
+  type1: Electric
+  type2: Monotype
+electrike:
+  bst: '295'
+  nf_type1: Electric
+  nf_type2: Monotype
+  type1: Electric
+  type2: Monotype
+electrode:
+  bst: '490'
+  nf_type1: Electric
+  nf_type2: Monotype
+  type1: Electric
+  type2: Monotype
+electrode hisuian:
+  bst: '490'
+  nf_type1: Electric
+  nf_type2: Grass
+  type1: Electric
+  type2: Grass
+elekid:
+  bst: '360'
+  nf_type1: Electric
+  nf_type2: Monotype
+  type1: Electric
+  type2: Monotype
+elgyem:
+  bst: '335'
+  nf_type1: Psychic
+  nf_type2: Monotype
+  type1: Psychic
+  type2: Monotype
+emboar:
+  bst: '528'
+  nf_type1: Fire
+  nf_type2: Fighting
+  type1: Fire
+  type2: Fighting
+emolga:
+  bst: '428'
+  nf_type1: Electric
+  nf_type2: Flying
+  type1: Electric
+  type2: Flying
+empoleon:
+  bst: '530'
+  nf_type1: Water
+  nf_type2: Steel
+  type1: Water
+  type2: Steel
+enamorus:
+  bst: '580'
+  nf_type1: Fairy
+  nf_type2: Flying
+  type1: Fairy
+  type2: Flying
+entei:
+  bst: '580'
+  nf_type1: Fire
+  nf_type2: Monotype
+  type1: Fire
+  type2: Monotype
+escavalier:
+  bst: '495'
+  nf_type1: Bug
+  nf_type2: Steel
+  type1: Bug
+  type2: Steel
+espathra:
+  bst: '481'
+  nf_type1: Psychic
+  nf_type2: Monotype
+  type1: Psychic
+  type2: Monotype
+espeon:
+  bst: '525'
+  nf_type1: Psychic
+  nf_type2: Monotype
+  type1: Psychic
+  type2: Monotype
+espurr:
+  bst: '355'
+  nf_type1: Psychic
+  nf_type2: Monotype
+  type1: Psychic
+  type2: Monotype
+eternatus:
+  bst: '690'
+  nf_type1: Poison
+  nf_type2: Dragon
+  type1: Poison
+  type2: Dragon
+excadrill:
+  bst: '508'
+  nf_type1: Ground
+  nf_type2: Steel
+  type1: Ground
+  type2: Steel
+exeggcute:
+  bst: '325'
+  nf_type1: Grass
+  nf_type2: Psychic
+  type1: Grass
+  type2: Psychic
+exeggutor:
+  bst: '530'
+  nf_type1: Grass
+  nf_type2: Psychic
+  type1: Grass
+  type2: Psychic
+exeggutor alolan:
+  bst: '530'
+  nf_type1: Grass
+  nf_type2: Dragon
+  type1: Grass
+  type2: Dragon
+exploud:
+  bst: '490'
+  nf_type1: Normal
+  nf_type2: Monotype
+  type1: Normal
+  type2: Monotype
+falinks:
+  bst: '470'
+  nf_type1: Fighting
+  nf_type2: Monotype
+  type1: Fighting
+  type2: Monotype
+farfetchd:
+  bst: '377'
+  nf_type1: Normal
+  nf_type2: Flying
+  type1: Normal
+  type2: Flying
+farfetchd galarian:
+  bst: '377'
+  nf_type1: Fighting
+  nf_type2: Monotype
+  type1: Fighting
+  type2: Monotype
+farigiraf:
+  bst: '520'
+  nf_type1: Normal
+  nf_type2: Psychic
+  type1: Normal
+  type2: Psychic
+fearow:
+  bst: '442'
+  nf_type1: Normal
+  nf_type2: Flying
+  type1: Normal
+  type2: Flying
+feebas:
+  bst: '200'
+  nf_type1: Water
+  nf_type2: Monotype
+  type1: Water
+  type2: Monotype
+fennekin:
+  bst: '307'
+  nf_type1: Fire
+  nf_type2: Monotype
+  type1: Fire
+  type2: Monotype
+feraligatr:
+  bst: '530'
+  nf_type1: Water
+  nf_type2: Monotype
+  type1: Water
+  type2: Monotype
+ferroseed:
+  bst: '305'
+  nf_type1: Grass
+  nf_type2: Steel
+  type1: Grass
+  type2: Steel
+ferrothorn:
+  bst: '489'
+  nf_type1: Grass
+  nf_type2: Steel
+  type1: Grass
+  type2: Steel
+fezandipiti:
+  bst: 555
+  nf_type1: poison
+  nf_type2: fairy
+  type1: poison
+  type2: fairy
+fidough:
+  bst: '312'
+  nf_type1: Fairy
+  nf_type2: Monotype
+  type1: Fairy
+  type2: Monotype
+finizen:
+  bst: '315'
+  nf_type1: Water
+  nf_type2: Monotype
+  type1: Water
+  type2: Monotype
+finneon:
+  bst: '330'
+  nf_type1: Water
+  nf_type2: Monotype
+  type1: Water
+  type2: Monotype
+flaaffy:
+  bst: '365'
+  nf_type1: Electric
+  nf_type2: Monotype
+  type1: Electric
+  type2: Monotype
+flabebe:
+  bst: '303'
+  nf_type1: Fairy
+  nf_type2: Monotype
+  type1: Fairy
+  type2: Monotype
+flamigo:
+  bst: '500'
+  nf_type1: Flying
+  nf_type2: Fighting
+  type1: Flying
+  type2: Fighting
+flapple:
+  bst: '485'
+  nf_type1: Grass
+  nf_type2: Dragon
+  type1: Grass
+  type2: Dragon
+flareon:
+  bst: '525'
+  nf_type1: Fire
+  nf_type2: Monotype
+  type1: Fire
+  type2: Monotype
+fletchinder:
+  bst: '382'
+  nf_type1: Fire
+  nf_type2: Flying
+  type1: Fire
+  type2: Flying
+fletchling:
+  bst: '278'
+  nf_type1: Normal
+  nf_type2: Flying
+  type1: Normal
+  type2: Flying
+flittle:
+  bst: '255'
+  nf_type1: Psychic
+  nf_type2: Monotype
+  type1: Psychic
+  type2: Monotype
+floatzel:
+  bst: '495'
+  nf_type1: Water
+  nf_type2: Monotype
+  type1: Water
+  type2: Monotype
+floette:
+  bst: '371'
+  nf_type1: Fairy
+  nf_type2: Monotype
+  type1: Fairy
+  type2: Monotype
+floragato:
+  bst: '410'
+  nf_type1: Grass
+  nf_type2: Monotype
+  type1: Grass
+  type2: Monotype
+florges:
+  bst: '552'
+  nf_type1: Fairy
+  nf_type2: Monotype
+  type1: Fairy
+  type2: Monotype
+flutter mane:
+  bst: '570'
+  nf_type1: Ghost
+  nf_type2: Fairy
+  type1: Ghost
+  type2: Fairy
+flygon:
+  bst: '520'
+  nf_type1: Ground
+  nf_type2: Dragon
+  type1: Ground
+  type2: Dragon
+fomantis:
+  bst: '250'
+  nf_type1: Grass
+  nf_type2: Monotype
+  type1: Grass
+  type2: Monotype
+foongus:
+  bst: '294'
+  nf_type1: Grass
+  nf_type2: Poison
+  type1: Grass
+  type2: Poison
+forretress:
+  bst: '465'
+  nf_type1: Bug
+  nf_type2: Steel
+  type1: Bug
+  type2: Steel
+fraxure:
+  bst: '410'
+  nf_type1: Dragon
+  nf_type2: Monotype
+  type1: Dragon
+  type2: Monotype
+frigibax:
+  bst: '320'
+  nf_type1: Dragon
+  nf_type2: Ice
+  type1: Dragon
+  type2: Ice
+frillish:
+  bst: '335'
+  nf_type1: Water
+  nf_type2: Ghost
+  type1: Water
+  type2: Ghost
+froakie:
+  bst: '314'
+  nf_type1: Water
+  nf_type2: Monotype
+  type1: Water
+  type2: Monotype
+frogadier:
+  bst: '405'
+  nf_type1: Water
+  nf_type2: Monotype
+  type1: Water
+  type2: Monotype
+froslass:
+  bst: '480'
+  nf_type1: Ice
+  nf_type2: Ghost
+  type1: Ice
+  type2: Ghost
+frosmoth:
+  bst: '475'
+  nf_type1: Ice
+  nf_type2: Bug
+  type1: Ice
+  type2: Bug
+fuecoco:
+  bst: '310'
+  nf_type1: Fire
+  nf_type2: Monotype
+  type1: Fire
+  type2: Monotype
+furfrou:
+  bst: '472'
+  nf_type1: Normal
+  nf_type2: Monotype
+  type1: Normal
+  type2: Monotype
+furret:
+  bst: '415'
+  nf_type1: Normal
+  nf_type2: Monotype
+  type1: Normal
+  type2: Monotype
+gabite:
+  bst: '410'
+  nf_type1: Dragon
+  nf_type2: Ground
+  type1: Dragon
+  type2: Ground
+gallade:
+  bst: '518'
+  nf_type1: Psychic
+  nf_type2: Fighting
+  type1: Psychic
+  type2: Fighting
+gallade mega:
+  bst: '618'
+  nf_type1: Psychic
+  nf_type2: Fighting
+  type1: Psychic
+  type2: Fighting
+galvantula:
+  bst: '472'
+  nf_type1: Bug
+  nf_type2: Electric
+  type1: Bug
+  type2: Electric
+garbodor:
+  bst: '484'
+  nf_type1: Poison
+  nf_type2: Monotype
+  type1: Poison
+  type2: Monotype
+garchomp:
+  bst: '600'
+  nf_type1: Dragon
+  nf_type2: Ground
+  type1: Dragon
+  type2: Ground
+garchomp mega:
+  bst: '700'
+  nf_type1: Dragon
+  nf_type2: Ground
+  type1: Dragon
+  type2: Ground
+gardevoir:
+  bst: '518'
+  nf_type1: Psychic
+  nf_type2: Monotype
+  type1: Psychic
+  type2: Fairy
+gardevoir mega:
+  bst: '618'
+  nf_type1: Psychic
+  nf_type2: Fairy
+  type1: Psychic
+  type2: Fairy
+garganacl:
+  bst: '500'
+  nf_type1: Rock
+  nf_type2: Monotype
+  type1: Rock
+  type2: Monotype
+gastly:
+  bst: '310'
+  nf_type1: Ghost
+  nf_type2: Poison
+  type1: Ghost
+  type2: Poison
+gastrodon:
+  bst: '475'
+  nf_type1: Water
+  nf_type2: Ground
+  type1: Water
+  type2: Ground
+genesect:
+  bst: '600'
+  nf_type1: Bug
+  nf_type2: Steel
+  type1: Bug
+  type2: Steel
+gengar:
+  bst: '500'
+  nf_type1: Ghost
+  nf_type2: Poison
+  type1: Ghost
+  type2: Poison
+gengar mega:
+  bst: '600'
+  nf_type1: Ghost
+  nf_type2: Poison
+  type1: Ghost
+  type2: Poison
+geodude:
+  bst: '300'
+  nf_type1: Rock
+  nf_type2: Ground
+  type1: Rock
+  type2: Ground
+geodude alolan:
+  bst: '300'
+  nf_type1: Rock
+  nf_type2: Electric
+  type1: Rock
+  type2: Electric
+gholdengo:
+  bst: '550'
+  nf_type1: Steel
+  nf_type2: Ghost
+  type1: Steel
+  type2: Ghost
+gible:
+  bst: '300'
+  nf_type1: Dragon
+  nf_type2: Ground
+  type1: Dragon
+  type2: Ground
+gigalith:
+  bst: '515'
+  nf_type1: Rock
+  nf_type2: Monotype
+  type1: Rock
+  type2: Monotype
+gimmighoul:
+  bst: '300'
+  nf_type1: Ghost
+  nf_type2: Monotype
+  type1: Ghost
+  type2: Monotype
+girafarig:
+  bst: '455'
+  nf_type1: Normal
+  nf_type2: Psychic
+  type1: Normal
+  type2: Psychic
+giratina:
+  bst: '680'
+  nf_type1: Ghost
+  nf_type2: Dragon
+  type1: Ghost
+  type2: Dragon
+glaceon:
+  bst: '525'
+  nf_type1: Ice
+  nf_type2: Monotype
+  type1: Ice
+  type2: Monotype
+glalie:
+  bst: '480'
+  nf_type1: Ice
+  nf_type2: Monotype
+  type1: Ice
+  type2: Monotype
+glalie mega:
+  bst: '580'
+  nf_type1: Ice
+  nf_type2: Monotype
+  type1: Ice
+  type2: Monotype
+glameow:
+  bst: '310'
+  nf_type1: Normal
+  nf_type2: Monotype
+  type1: Normal
+  type2: Monotype
+glastrier:
+  bst: '580'
+  nf_type1: Ice
+  nf_type2: Monotype
+  type1: Ice
+  type2: Monotype
+gligar:
+  bst: '430'
+  nf_type1: Ground
+  nf_type2: Flying
+  type1: Ground
+  type2: Flying
+glimmet:
+  bst: '350'
+  nf_type1: Rock
+  nf_type2: Poison
+  type1: Rock
+  type2: Poison
+glimmora:
+  bst: '525'
+  nf_type1: Rock
+  nf_type2: Poison
+  type1: Rock
+  type2: Poison
+gliscor:
+  bst: '510'
+  nf_type1: Ground
+  nf_type2: Flying
+  type1: Ground
+  type2: Flying
+gloom:
+  bst: '395'
+  nf_type1: Grass
+  nf_type2: Poison
+  type1: Grass
+  type2: Poison
+gogoat:
+  bst: '531'
+  nf_type1: Grass
+  nf_type2: Monotype
+  type1: Grass
+  type2: Monotype
+golbat:
+  bst: '455'
+  nf_type1: Poison
+  nf_type2: Flying
+  type1: Poison
+  type2: Flying
+goldeen:
+  bst: '320'
+  nf_type1: Water
+  nf_type2: Monotype
+  type1: Water
+  type2: Monotype
+golduck:
+  bst: '500'
+  nf_type1: Water
+  nf_type2: Monotype
+  type1: Water
+  type2: Monotype
+golem:
+  bst: '495'
+  nf_type1: Rock
+  nf_type2: Ground
+  type1: Rock
+  type2: Ground
+golem alolan:
+  bst: '495'
+  nf_type1: Rock
+  nf_type2: Electric
+  type1: Rock
+  type2: Electric
+golett:
+  bst: '303'
+  nf_type1: Ground
+  nf_type2: Ghost
+  type1: Ground
+  type2: Ghost
+golisopod:
+  bst: '530'
+  nf_type1: Bug
+  nf_type2: Water
+  type1: Bug
+  type2: Water
+golurk:
+  bst: '483'
+  nf_type1: Ground
+  nf_type2: Ghost
+  type1: Ground
+  type2: Ghost
+goodra:
+  bst: '600'
+  nf_type1: Dragon
+  nf_type2: Monotype
+  type1: Dragon
+  type2: Monotype
+goodra hisuian:
+  bst: '600'
+  nf_type1: Steel
+  nf_type2: Dragon
+  type1: Steel
+  type2: Dragon
+goomy:
+  bst: '300'
+  nf_type1: Dragon
+  nf_type2: Monotype
+  type1: Dragon
+  type2: Monotype
+gorebyss:
+  bst: '485'
+  nf_type1: Water
+  nf_type2: Monotype
+  type1: Water
+  type2: Monotype
+gossifleur:
+  bst: '250'
+  nf_type1: Grass
+  nf_type2: Monotype
+  type1: Grass
+  type2: Monotype
+gothita:
+  bst: '290'
+  nf_type1: Psychic
+  nf_type2: Monotype
+  type1: Psychic
+  type2: Monotype
+gothitelle:
+  bst: '490'
+  nf_type1: Psychic
+  nf_type2: Monotype
+  type1: Psychic
+  type2: Monotype
+gothorita:
+  bst: '390'
+  nf_type1: Psychic
+  nf_type2: Monotype
+  type1: Psychic
+  type2: Monotype
+gouging fire:
+  bst: 590
+  nf_type1: fire
+  nf_type2: dragon
+  type1: fire
+  type2: dragon
+gourgeist:
+  bst: '494'
+  nf_type1: Ghost
+  nf_type2: Grass
+  type1: Ghost
+  type2: Grass
+grafaiai:
+  bst: '485'
+  nf_type1: Poison
+  nf_type2: Normal
+  type1: Poison
+  type2: Normal
+granbull:
+  bst: '450'
+  nf_type1: Normal
+  nf_type2: Monotype
+  type1: Fairy
+  type2: Monotype
+grapploct:
+  bst: '480'
+  nf_type1: Fighting
+  nf_type2: Monotype
+  type1: Fighting
+  type2: Monotype
+graveler:
+  bst: '390'
+  nf_type1: Rock
+  nf_type2: Ground
+  type1: Rock
+  type2: Ground
+graveler alolan:
+  bst: '390'
+  nf_type1: Rock
+  nf_type2: Electric
+  type1: Rock
+  type2: Electric
+great tusk:
+  bst: '570'
+  nf_type1: Ground
+  nf_type2: Fighting
+  type1: Ground
+  type2: Fighting
+greavard:
+  bst: '290'
+  nf_type1: Ghost
+  nf_type2: Monotype
+  type1: Ghost
+  type2: Monotype
+greedent:
+  bst: '460'
+  nf_type1: Normal
+  nf_type2: Monotype
+  type1: Normal
+  type2: Monotype
+greninja:
+  bst: '530'
+  nf_type1: Water
+  nf_type2: Dark
+  type1: Water
+  type2: Dark
+grimer:
+  bst: '325'
+  nf_type1: Poison
+  nf_type2: Monotype
+  type1: Poison
+  type2: Monotype
+grimer alolan:
+  bst: '325'
+  nf_type1: Poison
+  nf_type2: Dark
+  type1: Poison
+  type2: Dark
+grimmsnarl:
+  bst: '510'
+  nf_type1: Dark
+  nf_type2: Fairy
+  type1: Dark
+  type2: Fairy
+grookey:
+  bst: '310'
+  nf_type1: Grass
+  nf_type2: Monotype
+  type1: Grass
+  type2: Monotype
+grotle:
+  bst: '405'
+  nf_type1: Grass
+  nf_type2: Monotype
+  type1: Grass
+  type2: Monotype
+groudon:
+  bst: '670'
+  nf_type1: Ground
+  nf_type2: Monotype
+  type1: Ground
+  type2: Monotype
+groudon primal:
+  bst: '770'
+  nf_type1: Ground
+  nf_type2: Fire
+  type1: Ground
+  type2: Fire
+grovyle:
+  bst: '405'
+  nf_type1: Grass
+  nf_type2: Monotype
+  type1: Grass
+  type2: Monotype
+growlithe:
+  bst: '350'
+  nf_type1: Fire
+  nf_type2: Monotype
+  type1: Fire
+  type2: Monotype
+growlithe hisuian:
+  bst: '350'
+  nf_type1: Fire
+  nf_type2: Rock
+  type1: Fire
+  type2: Rock
+grubbin:
+  bst: '300'
+  nf_type1: Bug
+  nf_type2: Monotype
+  type1: Bug
+  type2: Monotype
+grumpig:
+  bst: '470'
+  nf_type1: Psychic
+  nf_type2: Monotype
+  type1: Psychic
+  type2: Monotype
+gulpin:
+  bst: '302'
+  nf_type1: Poison
+  nf_type2: Monotype
+  type1: Poison
+  type2: Monotype
+gumshoos:
+  bst: '418'
+  nf_type1: Normal
+  nf_type2: Monotype
+  type1: Normal
+  type2: Monotype
+gurdurr:
+  bst: '405'
+  nf_type1: Fighting
+  nf_type2: Monotype
+  type1: Fighting
+  type2: Monotype
+guzzlord:
+  bst: '570'
+  nf_type1: Dark
+  nf_type2: Dragon
+  type1: Dark
+  type2: Dragon
+gyarados:
+  bst: '540'
+  nf_type1: Water
+  nf_type2: Flying
+  type1: Water
+  type2: Flying
+gyarados mega:
+  bst: '640'
+  nf_type1: Water
+  nf_type2: Dark
+  type1: Water
+  type2: Dark
+hakamoo:
+  bst: '420'
+  nf_type1: Dragon
+  nf_type2: Fighting
+  type1: Dragon
+  type2: Fighting
+happiny:
+  bst: '220'
+  nf_type1: Normal
+  nf_type2: Monotype
+  type1: Normal
+  type2: Monotype
+hariyama:
+  bst: '474'
+  nf_type1: Fighting
+  nf_type2: Monotype
+  type1: Fighting
+  type2: Monotype
+hatenna:
+  bst: '265'
+  nf_type1: Psychic
+  nf_type2: Monotype
+  type1: Psychic
+  type2: Monotype
+hatterene:
+  bst: '510'
+  nf_type1: Psychic
+  nf_type2: Fairy
+  type1: Psychic
+  type2: Fairy
+hattrem:
+  bst: '370'
+  nf_type1: Psychic
+  nf_type2: Monotype
+  type1: Psychic
+  type2: Monotype
+haunter:
+  bst: '405'
+  nf_type1: Ghost
+  nf_type2: Poison
+  type1: Ghost
+  type2: Poison
+hawlucha:
+  bst: '500'
+  nf_type1: Fighting
+  nf_type2: Flying
+  type1: Fighting
+  type2: Flying
+haxorus:
+  bst: '540'
+  nf_type1: Dragon
+  nf_type2: Monotype
+  type1: Dragon
+  type2: Monotype
+heatmor:
+  bst: '484'
+  nf_type1: Fire
+  nf_type2: Monotype
+  type1: Fire
+  type2: Monotype
+heatran:
+  bst: '600'
+  nf_type1: Fire
+  nf_type2: Steel
+  type1: Fire
+  type2: Steel
+heliolisk:
+  bst: '481'
+  nf_type1: Electric
+  nf_type2: Normal
+  type1: Electric
+  type2: Normal
+helioptile:
+  bst: '289'
+  nf_type1: Electric
+  nf_type2: Normal
+  type1: Electric
+  type2: Normal
+heracross:
+  bst: '500'
+  nf_type1: Bug
+  nf_type2: Fighting
+  type1: Bug
+  type2: Fighting
+heracross mega:
+  bst: '600'
+  nf_type1: Bug
+  nf_type2: Fighting
+  type1: Bug
+  type2: Fighting
+herdier:
+  bst: '370'
+  nf_type1: Normal
+  nf_type2: Monotype
+  type1: Normal
+  type2: Monotype
+hippopotas:
+  bst: '330'
+  nf_type1: Ground
+  nf_type2: Monotype
+  type1: Ground
+  type2: Monotype
+hippowdon:
+  bst: '525'
+  nf_type1: Ground
+  nf_type2: Monotype
+  type1: Ground
+  type2: Monotype
+hitmonchan:
+  bst: '455'
+  nf_type1: Fighting
+  nf_type2: Monotype
+  type1: Fighting
+  type2: Monotype
+hitmonlee:
+  bst: '455'
+  nf_type1: Fighting
+  nf_type2: Monotype
+  type1: Fighting
+  type2: Monotype
+hitmontop:
+  bst: '455'
+  nf_type1: Fighting
+  nf_type2: Monotype
+  type1: Fighting
+  type2: Monotype
+honchkrow:
+  bst: '505'
+  nf_type1: Dark
+  nf_type2: Flying
+  type1: Dark
+  type2: Flying
+honedge:
+  bst: '325'
+  nf_type1: Steel
+  nf_type2: Ghost
+  type1: Steel
+  type2: Ghost
+hooh:
+  bst: '680'
+  nf_type1: Fire
+  nf_type2: Flying
+  type1: Fire
+  type2: Flying
+hoopa confined:
+  bst: '600'
+  nf_type1: Psychic
+  nf_type2: Ghost
+  type1: Psychic
+  type2: Ghost
+hoopa unbound:
+  bst: '680'
+  nf_type1: Psychic
+  nf_type2: Dark
+  type1: Psychic
+  type2: Dark
+hoothoot:
+  bst: '262'
+  nf_type1: Normal
+  nf_type2: Flying
+  type1: Normal
+  type2: Flying
+hoppip:
+  bst: '250'
+  nf_type1: Grass
+  nf_type2: Flying
+  type1: Grass
+  type2: Flying
+horsea:
+  bst: '295'
+  nf_type1: Water
+  nf_type2: Monotype
+  type1: Water
+  type2: Monotype
+houndoom:
+  bst: '500'
+  nf_type1: Dark
+  nf_type2: Fire
+  type1: Dark
+  type2: Fire
+houndoom mega:
+  bst: '600'
+  nf_type1: Dark
+  nf_type2: Fire
+  type1: Dark
+  type2: Fire
+houndour:
+  bst: '330'
+  nf_type1: Dark
+  nf_type2: Fire
+  type1: Dark
+  type2: Fire
+houndstone:
+  bst: '488'
+  nf_type1: Ghost
+  nf_type2: Monotype
+  type1: Ghost
+  type2: Monotype
+huntail:
+  bst: '485'
+  nf_type1: Water
+  nf_type2: Monotype
+  type1: Water
+  type2: Monotype
+hydreigon:
+  bst: '600'
+  nf_type1: Dark
+  nf_type2: Dragon
+  type1: Dark
+  type2: Dragon
+hypno:
+  bst: '483'
+  nf_type1: Psychic
+  nf_type2: Monotype
+  type1: Psychic
+  type2: Monotype
+hyrapple:
+  bst: 540
+  nf_type1: grass
+  nf_type2: dragon
+  type1: grass
+  type2: dragon
+igglybuff:
+  bst: '210'
+  nf_type1: Normal
+  nf_type2: Monotype
+  type1: Normal
+  type2: Fairy
+illumise:
+  bst: '430'
+  nf_type1: Bug
+  nf_type2: Monotype
+  type1: Bug
+  type2: Monotype
+impidimp:
+  bst: '265'
+  nf_type1: Dark
+  nf_type2: Fairy
+  type1: Dark
+  type2: Fairy
+incineroar:
+  bst: '530'
+  nf_type1: Fire
+  nf_type2: Dark
+  type1: Fire
+  type2: Dark
+indeedee:
+  bst: '475'
+  nf_type1: Psychic
+  nf_type2: Normal
+  type1: Psychic
+  type2: Normal
+infernape:
+  bst: '534'
+  nf_type1: Fire
+  nf_type2: Fighting
+  type1: Fire
+  type2: Fighting
+inkay:
+  bst: '288'
+  nf_type1: Dark
+  nf_type2: Psychic
+  type1: Dark
+  type2: Psychic
+inteleon:
+  bst: '530'
+  nf_type1: Water
+  nf_type2: Monotype
+  type1: Water
+  type2: Monotype
+iron boulder:
+  bst: 590
+  nf_type1: rock
+  nf_type2: psychic
+  type1: rock
+  type2: psychic
+iron bundle:
+  bst: '570'
+  nf_type1: Ice
+  nf_type2: Water
+  type1: Ice
+  type2: Water
+iron crown:
+  bst: 590
+  nf_type1: steel
+  nf_type2: psychic
+  type1: steel
+  type2: psychic
+iron hands:
+  bst: '570'
+  nf_type1: Fighting
+  nf_type2: Electric
+  type1: Fighting
+  type2: Electric
+iron jugulis:
+  bst: '570'
+  nf_type1: Dark
+  nf_type2: Flying
+  type1: Dark
+  type2: Flying
+iron leaves:
+  bst: 590
+  nf_type1: grass
+  nf_type2: psychic
+  type1: grass
+  type2: psychic
+iron moth:
+  bst: '570'
+  nf_type1: Fire
+  nf_type2: Poison
+  type1: Fire
+  type2: Poison
+iron thorns:
+  bst: '570'
+  nf_type1: Rock
+  nf_type2: Electric
+  type1: Rock
+  type2: Electric
+iron treads:
+  bst: '570'
+  nf_type1: Ground
+  nf_type2: Steel
+  type1: Ground
+  type2: Steel
+iron valiant:
+  bst: '590'
+  nf_type1: Fairy
+  nf_type2: Fighting
+  type1: Fairy
+  type2: Fighting
+ivysaur:
+  bst: '405'
+  nf_type1: Grass
+  nf_type2: Poison
+  type1: Grass
+  type2: Poison
+jangmoo:
+  bst: '300'
+  nf_type1: Dragon
+  nf_type2: Monotype
+  type1: Dragon
+  type2: Monotype
+jellicent:
+  bst: '480'
+  nf_type1: Water
+  nf_type2: Ghost
+  type1: Water
+  type2: Ghost
+jigglypuff:
+  bst: '270'
+  nf_type1: Normal
+  nf_type2: Monotype
+  type1: Normal
+  type2: Fairy
+jirachi:
+  bst: '600'
+  nf_type1: Steel
+  nf_type2: Psychic
+  type1: Steel
+  type2: Psychic
+jolteon:
+  bst: '525'
+  nf_type1: Electric
+  nf_type2: Monotype
+  type1: Electric
+  type2: Monotype
+joltik:
+  bst: '319'
+  nf_type1: Bug
+  nf_type2: Electric
+  type1: Bug
+  type2: Electric
+jumpluff:
+  bst: '460'
+  nf_type1: Grass
+  nf_type2: Flying
+  type1: Grass
+  type2: Flying
+jynx:
+  bst: '455'
+  nf_type1: Ice
+  nf_type2: Psychic
+  type1: Ice
+  type2: Psychic
+kabuto:
+  bst: '355'
+  nf_type1: Rock
+  nf_type2: Water
+  type1: Rock
+  type2: Water
+kabutops:
+  bst: '495'
+  nf_type1: Rock
+  nf_type2: Water
+  type1: Rock
+  type2: Water
+kadabra:
+  bst: '400'
+  nf_type1: Psychic
+  nf_type2: Monotype
+  type1: Psychic
+  type2: Monotype
+kakuna:
+  bst: '205'
+  nf_type1: Bug
+  nf_type2: Poison
+  type1: Bug
+  type2: Poison
+kangaskhan:
+  bst: '490'
+  nf_type1: Normal
+  nf_type2: Monotype
+  type1: Normal
+  type2: Monotype
+kangaskhan mega:
+  bst: '590'
+  nf_type1: Normal
+  nf_type2: Monotype
+  type1: Normal
+  type2: Monotype
+karrablast:
+  bst: '315'
+  nf_type1: Bug
+  nf_type2: Monotype
+  type1: Bug
+  type2: Monotype
+kartana:
+  bst: '570'
+  nf_type1: Grass
+  nf_type2: Steel
+  type1: Grass
+  type2: Steel
+kecleon:
+  bst: '440'
+  nf_type1: Normal
+  nf_type2: Monotype
+  type1: Normal
+  type2: Monotype
+keldeo:
+  bst: '580'
+  nf_type1: Water
+  nf_type2: Fighting
+  type1: Water
+  type2: Fighting
+kilowattrel:
+  bst: '490'
+  nf_type1: Electric
+  nf_type2: Flying
+  type1: Electric
+  type2: Flying
+kingambit:
+  bst: '550'
+  nf_type1: Dark
+  nf_type2: Steel
+  type1: Dark
+  type2: Steel
+kingdra:
+  bst: '540'
+  nf_type1: Water
+  nf_type2: Dragon
+  type1: Water
+  type2: Dragon
+kingler:
+  bst: '475'
+  nf_type1: Water
+  nf_type2: Monotype
+  type1: Water
+  type2: Monotype
+kirlia:
+  bst: '278'
+  nf_type1: Psychic
+  nf_type2: Monotype
+  type1: Psychic
+  type2: Fairy
+klang:
+  bst: '440'
+  nf_type1: Steel
+  nf_type2: Monotype
+  type1: Steel
+  type2: Monotype
+klawf:
+  bst: '450'
+  nf_type1: Rock
+  nf_type2: Monotype
+  type1: Rock
+  type2: Monotype
+kleavor:
+  bst: '500'
+  nf_type1: Bug
+  nf_type2: Rock
+  type1: Bug
+  type2: Rock
+klefki:
+  bst: '470'
+  nf_type1: Steel
+  nf_type2: Fairy
+  type1: Steel
+  type2: Fairy
+klink:
+  bst: '300'
+  nf_type1: Steel
+  nf_type2: Monotype
+  type1: Steel
+  type2: Monotype
+klinklang:
+  bst: '520'
+  nf_type1: Steel
+  nf_type2: Monotype
+  type1: Steel
+  type2: Monotype
+koffing:
+  bst: '340'
+  nf_type1: Poison
+  nf_type2: Monotype
+  type1: Poison
+  type2: Monotype
+komala:
+  bst: '480'
+  nf_type1: Normal
+  nf_type2: Monotype
+  type1: Normal
+  type2: Monotype
+kommoo:
+  bst: '600'
+  nf_type1: Dragon
+  nf_type2: Fighting
+  type1: Dragon
+  type2: Fighting
+koraidon:
+  bst: '670'
+  nf_type1: Fighting
+  nf_type2: Dragon
+  type1: Fighting
+  type2: Dragon
+krabby:
+  bst: '325'
+  nf_type1: Water
+  nf_type2: Monotype
+  type1: Water
+  type2: Monotype
+kricketot:
+  bst: '194'
+  nf_type1: Bug
+  nf_type2: Monotype
+  type1: Bug
+  type2: Monotype
+kricketune:
+  bst: '384'
+  nf_type1: Bug
+  nf_type2: Monotype
+  type1: Bug
+  type2: Monotype
+krokorok:
+  bst: '351'
+  nf_type1: Ground
+  nf_type2: Dark
+  type1: Ground
+  type2: Dark
+krookodile:
+  bst: '519'
+  nf_type1: Ground
+  nf_type2: Dark
+  type1: Ground
+  type2: Dark
+kubfu:
+  bst: '385'
+  nf_type1: Fighting
+  nf_type2: Monotype
+  type1: Fighting
+  type2: Monotype
+kyogre:
+  bst: '670'
+  nf_type1: Water
+  nf_type2: Monotype
+  type1: Water
+  type2: Monotype
+kyogre primal:
+  bst: '770'
+  nf_type1: Water
+  nf_type2: Monotype
+  type1: Water
+  type2: Monotype
+kyurem:
+  bst: '660'
+  nf_type1: Dragon
+  nf_type2: Ice
+  type1: Dragon
+  type2: Ice
+kyurem black:
+  bst: '700'
+  nf_type1: Dragon
+  nf_type2: Ice
+  type1: Dragon
+  type2: Ice
+kyurem white:
+  bst: '700'
+  nf_type1: Dragon
+  nf_type2: Ice
+  type1: Dragon
+  type2: Ice
+lairon:
+  bst: '430'
+  nf_type1: Steel
+  nf_type2: Rock
+  type1: Steel
+  type2: Rock
+lampent:
+  bst: '370'
+  nf_type1: Ghost
+  nf_type2: Fire
+  type1: Ghost
+  type2: Fire
+landorus:
+  bst: '600'
+  nf_type1: Ground
+  nf_type2: Flying
+  type1: Ground
+  type2: Flying
+lanturn:
+  bst: '460'
+  nf_type1: Water
+  nf_type2: Electric
+  type1: Water
+  type2: Electric
+lapras:
+  bst: '535'
+  nf_type1: Water
+  nf_type2: Ice
+  type1: Water
+  type2: Ice
+larvesta:
+  bst: '360'
+  nf_type1: Bug
+  nf_type2: Fire
+  type1: Bug
+  type2: Fire
+larvitar:
+  bst: '300'
+  nf_type1: Rock
+  nf_type2: Ground
+  type1: Rock
+  type2: Ground
+latias:
+  bst: '600'
+  nf_type1: Dragon
+  nf_type2: Psychic
+  type1: Dragon
+  type2: Psychic
+latias mega:
+  bst: '700'
+  nf_type1: Dragon
+  nf_type2: Psychic
+  type1: Dragon
+  type2: Psychic
+latios:
+  bst: '600'
+  nf_type1: Dragon
+  nf_type2: Psychic
+  type1: Dragon
+  type2: Psychic
+latios mega:
+  bst: '700'
+  nf_type1: Dragon
+  nf_type2: Psychic
+  type1: Dragon
+  type2: Psychic
+leafeon:
+  bst: '525'
+  nf_type1: Grass
+  nf_type2: Monotype
+  type1: Grass
+  type2: Monotype
+leavanny:
+  bst: '500'
+  nf_type1: Bug
+  nf_type2: Grass
+  type1: Bug
+  type2: Grass
+lechonk:
+  bst: '254'
+  nf_type1: Normal
+  nf_type2: Monotype
+  type1: Normal
+  type2: Monotype
+ledian:
+  bst: '390'
+  nf_type1: Bug
+  nf_type2: Flying
+  type1: Bug
+  type2: Flying
+ledyba:
+  bst: '265'
+  nf_type1: Bug
+  nf_type2: Flying
+  type1: Bug
+  type2: Flying
+lickilicky:
+  bst: '515'
+  nf_type1: Normal
+  nf_type2: Monotype
+  type1: Normal
+  type2: Monotype
+lickitung:
+  bst: '385'
+  nf_type1: Normal
+  nf_type2: Monotype
+  type1: Normal
+  type2: Monotype
+liepard:
+  bst: '446'
+  nf_type1: Dark
+  nf_type2: Monotype
+  type1: Dark
+  type2: Monotype
+lileep:
+  bst: '355'
+  nf_type1: Rock
+  nf_type2: Grass
+  type1: Rock
+  type2: Grass
+lilligant:
+  bst: '480'
+  nf_type1: Grass
+  nf_type2: Monotype
+  type1: Grass
+  type2: Monotype
+lilligant hisuian:
+  bst: '480'
+  nf_type1: Grass
+  nf_type2: Fighting
+  type1: Grass
+  type2: Fighting
+lillipup:
+  bst: '275'
+  nf_type1: Normal
+  nf_type2: Monotype
+  type1: Normal
+  type2: Monotype
+linoone:
+  bst: '420'
+  nf_type1: Normal
+  nf_type2: Monotype
+  type1: Normal
+  type2: Monotype
+linoone galarian:
+  bst: '420'
+  nf_type1: Dark
+  nf_type2: Normal
+  type1: Dark
+  type2: Normal
+litleo:
+  bst: '369'
+  nf_type1: Fire
+  nf_type2: Normal
+  type1: Fire
+  type2: Normal
+litten:
+  bst: '320'
+  nf_type1: Fire
+  nf_type2: Monotype
+  type1: Fire
+  type2: Monotype
+litwick:
+  bst: '275'
+  nf_type1: Ghost
+  nf_type2: Fire
+  type1: Ghost
+  type2: Fire
+lokix:
+  bst: '450'
+  nf_type1: Bug
+  nf_type2: Dark
+  type1: Bug
+  type2: Dark
+lombre:
+  bst: '340'
+  nf_type1: Water
+  nf_type2: Grass
+  type1: Water
+  type2: Grass
+lopunny:
+  bst: '480'
+  nf_type1: Normal
+  nf_type2: Monotype
+  type1: Normal
+  type2: Monotype
+lopunny mega:
+  bst: '580'
+  nf_type1: Normal
+  nf_type2: Fighting
+  type1: Normal
+  type2: Fighting
+lotad:
+  bst: '220'
+  nf_type1: Water
+  nf_type2: Grass
+  type1: Water
+  type2: Grass
+loudred:
+  bst: '360'
+  nf_type1: Normal
+  nf_type2: Monotype
+  type1: Normal
+  type2: Monotype
+lucario:
+  bst: '525'
+  nf_type1: Fighting
+  nf_type2: Steel
+  type1: Fighting
+  type2: Steel
+lucario mega:
+  bst: '625'
+  nf_type1: Fighting
+  nf_type2: Steel
+  type1: Fighting
+  type2: Steel
+ludicolo:
+  bst: '480'
+  nf_type1: Water
+  nf_type2: Grass
+  type1: Water
+  type2: Grass
+lugia:
+  bst: '680'
+  nf_type1: Psychic
+  nf_type2: Flying
+  type1: Psychic
+  type2: Flying
+lumineon:
+  bst: '460'
+  nf_type1: Water
+  nf_type2: Monotype
+  type1: Water
+  type2: Monotype
+lunala:
+  bst: '680'
+  nf_type1: Psychic
+  nf_type2: Ghost
+  type1: Psychic
+  type2: Ghost
+lunatone:
+  bst: '460'
+  nf_type1: Rock
+  nf_type2: Psychic
+  type1: Rock
+  type2: Psychic
+lurantis:
+  bst: '480'
+  nf_type1: Grass
+  nf_type2: Monotype
+  type1: Grass
+  type2: Monotype
+luvdisc:
+  bst: '330'
+  nf_type1: Water
+  nf_type2: Monotype
+  type1: Water
+  type2: Monotype
+luxio:
+  bst: '363'
+  nf_type1: Electric
+  nf_type2: Monotype
+  type1: Electric
+  type2: Monotype
+luxray:
+  bst: '523'
+  nf_type1: Electric
+  nf_type2: Monotype
+  type1: Electric
+  type2: Monotype
+lycanroc:
+  bst: '487'
+  nf_type1: Rock
+  nf_type2: Monotype
+  type1: Rock
+  type2: Monotype
+mabosstiff:
+  bst: '505'
+  nf_type1: Dark
+  nf_type2: Monotype
+  type1: Dark
+  type2: Monotype
+machamp:
+  bst: '505'
+  nf_type1: Fighting
+  nf_type2: Monotype
+  type1: Fighting
+  type2: Monotype
+machoke:
+  bst: '405'
+  nf_type1: Fighting
+  nf_type2: Monotype
+  type1: Fighting
+  type2: Monotype
+machop:
+  bst: '305'
+  nf_type1: Fighting
+  nf_type2: Monotype
+  type1: Fighting
+  type2: Monotype
+magby:
+  bst: '365'
+  nf_type1: Fire
+  nf_type2: Monotype
+  type1: Fire
+  type2: Monotype
+magcargo:
+  bst: '430'
+  nf_type1: Fire
+  nf_type2: Rock
+  type1: Fire
+  type2: Rock
+magearna:
+  bst: '600'
+  nf_type1: Steel
+  nf_type2: Fairy
+  type1: Steel
+  type2: Fairy
+magikarp:
+  bst: '200'
+  nf_type1: Water
+  nf_type2: Monotype
+  type1: Water
+  type2: Monotype
+magmar:
+  bst: '495'
+  nf_type1: Fire
+  nf_type2: Monotype
+  type1: Fire
+  type2: Monotype
+magmortar:
+  bst: '540'
+  nf_type1: Fire
+  nf_type2: Monotype
+  type1: Fire
+  type2: Monotype
+magnemite:
+  bst: '325'
+  nf_type1: Electric
+  nf_type2: Steel
+  type1: Electric
+  type2: Steel
+magneton:
+  bst: '465'
+  nf_type1: Electric
+  nf_type2: Steel
+  type1: Electric
+  type2: Steel
+magnezone:
+  bst: '535'
+  nf_type1: Electric
+  nf_type2: Steel
+  type1: Electric
+  type2: Steel
+makuhita:
+  bst: '237'
+  nf_type1: Fighting
+  nf_type2: Monotype
+  type1: Fighting
+  type2: Monotype
+malamar:
+  bst: '482'
+  nf_type1: Dark
+  nf_type2: Psychic
+  type1: Dark
+  type2: Psychic
+mamoswine:
+  bst: '530'
+  nf_type1: Ice
+  nf_type2: Ground
+  type1: Ice
+  type2: Ground
+manaphy:
+  bst: '600'
+  nf_type1: Water
+  nf_type2: Monotype
+  type1: Water
+  type2: Monotype
+mandibuzz:
+  bst: '510'
+  nf_type1: Dark
+  nf_type2: Flying
+  type1: Dark
+  type2: Flying
+manectric:
+  bst: '475'
+  nf_type1: Electric
+  nf_type2: Monotype
+  type1: Electric
+  type2: Monotype
+manetric mega:
+  bst: '575'
+  nf_type1: Electric
+  nf_type2: Monotype
+  type1: Electric
+  type2: Monotype
+mankey:
+  bst: '305'
+  nf_type1: Fighting
+  nf_type2: Monotype
+  type1: Fighting
+  type2: Monotype
+mantine:
+  bst: '485'
+  nf_type1: Water
+  nf_type2: Flying
+  type1: Water
+  type2: Flying
+mantyke:
+  bst: '345'
+  nf_type1: Water
+  nf_type2: Flying
+  type1: Water
+  type2: Flying
+maractus:
+  bst: '461'
+  nf_type1: Grass
+  nf_type2: Monotype
+  type1: Grass
+  type2: Monotype
+mareanie:
+  bst: '305'
+  nf_type1: Poison
+  nf_type2: Water
+  type1: Poison
+  type2: Water
+mareep:
+  bst: '280'
+  nf_type1: Electric
+  nf_type2: Monotype
+  type1: Electric
+  type2: Monotype
+marill:
+  bst: '250'
+  nf_type1: Water
+  nf_type2: Monotype
+  type1: Water
+  type2: Fairy
+marowak:
+  bst: '425'
+  nf_type1: Ground
+  nf_type2: Monotype
+  type1: Ground
+  type2: Monotype
+marowak alolan:
+  bst: '425'
+  nf_type1: Fire
+  nf_type2: Ghost
+  type1: Fire
+  type2: Ghost
+marshadow:
+  bst: '600'
+  nf_type1: Fighting
+  nf_type2: Ghost
+  type1: Fighting
+  type2: Ghost
+marshtomp:
+  bst: '405'
+  nf_type1: Water
+  nf_type2: Ground
+  type1: Water
+  type2: Ground
+maschiff:
+  bst: '340'
+  nf_type1: Dark
+  nf_type2: Monotype
+  type1: Dark
+  type2: Monotype
+masquerain:
+  bst: '454'
+  nf_type1: Bug
+  nf_type2: Flying
+  type1: Bug
+  type2: Flying
+maushold:
+  bst: '470'
+  nf_type1: Normal
+  nf_type2: Monotype
+  type1: Normal
+  type2: Monotype
+mawile:
+  bst: '380'
+  nf_type1: Steel
+  nf_type2: Monotype
+  type1: Steel
+  type2: Fairy
+mawile mega:
+  bst: '480'
+  nf_type1: Steel
+  nf_type2: Fairy
+  type1: Steel
+  type2: Fairy
+medicham:
+  bst: '410'
+  nf_type1: Fighting
+  nf_type2: Psychic
+  type1: Fighting
+  type2: Psychic
+medicham mega:
+  bst: '510'
+  nf_type1: Fighting
+  nf_type2: Psychic
+  type1: Fighting
+  type2: Psychic
+meditite:
+  bst: '280'
+  nf_type1: Fighting
+  nf_type2: Psychic
+  type1: Fighting
+  type2: Psychic
+meganium:
+  bst: '525'
+  nf_type1: Grass
+  nf_type2: Monotype
+  type1: Grass
+  type2: Monotype
+melmetal:
+  bst: '600'
+  nf_type1: Steel
+  nf_type2: Monotype
+  type1: Steel
+  type2: Monotype
+meloetta:
+  bst: '600'
+  nf_type1: Normal
+  nf_type2: Psychic
+  type1: Normal
+  type2: Psychic
+meltan:
+  bst: '300'
+  nf_type1: Steel
+  nf_type2: Monotype
+  type1: Steel
+  type2: Monotype
+meowscarada:
+  bst: '530'
+  nf_type1: Grass
+  nf_type2: Dark
+  type1: Grass
+  type2: Dark
+meowstic:
+  bst: '466'
+  nf_type1: Psychic
+  nf_type2: Monotype
+  type1: Psychic
+  type2: Monotype
+meowth:
+  bst: '290'
+  nf_type1: Normal
+  nf_type2: Monotype
+  type1: Normal
+  type2: Monotype
+meowth alolan:
+  bst: '290'
+  nf_type1: Dark
+  nf_type2: Monotype
+  type1: Dark
+  type2: Monotype
+meowth galarian:
+  bst: '290'
+  nf_type1: Steel
+  nf_type2: Monotype
+  type1: Steel
+  type2: Monotype
+mesprit:
+  bst: '580'
+  nf_type1: Psychic
+  nf_type2: Monotype
+  type1: Psychic
+  type2: Monotype
+metagross:
+  bst: '600'
+  nf_type1: Steel
+  nf_type2: Psychic
+  type1: Steel
+  type2: Psychic
+metagross mega:
+  bst: '700'
+  nf_type1: Steel
+  nf_type2: Psychic
+  type1: Steel
+  type2: Psychic
+metang:
+  bst: '420'
+  nf_type1: Steel
+  nf_type2: Psychic
+  type1: Steel
+  type2: Psychic
+metapod:
+  bst: '205'
+  nf_type1: Bug
+  nf_type2: Monotype
+  type1: Bug
+  type2: Monotype
+mew:
+  bst: '600'
+  nf_type1: Psychic
+  nf_type2: Monotype
+  type1: Psychic
+  type2: Monotype
+mewtwo:
+  bst: '680'
+  nf_type1: Psychic
+  nf_type2: Monotype
+  type1: Psychic
+  type2: Monotype
+mewtwo mega x:
+  bst: '780'
+  nf_type1: Psychic
+  nf_type2: Fighting
+  type1: Psychic
+  type2: Fighting
+mewtwo mega y:
+  bst: '780'
+  nf_type1: Psychic
+  nf_type2: Monotype
+  type1: Psychic
+  type2: Monotype
+mienfoo:
+  bst: '350'
+  nf_type1: Fighting
+  nf_type2: Monotype
+  type1: Fighting
+  type2: Monotype
+mienshao:
+  bst: '510'
+  nf_type1: Fighting
+  nf_type2: Monotype
+  type1: Fighting
+  type2: Monotype
+mightyena:
+  bst: '420'
+  nf_type1: Dark
+  nf_type2: Monotype
+  type1: Dark
+  type2: Monotype
+milcery:
+  bst: '270'
+  nf_type1: Fairy
+  nf_type2: Monotype
+  type1: Fairy
+  type2: Monotype
+milotic:
+  bst: '540'
+  nf_type1: Water
+  nf_type2: Monotype
+  type1: Water
+  type2: Monotype
+miltank:
+  bst: '490'
+  nf_type1: Normal
+  nf_type2: Monotype
+  type1: Normal
+  type2: Monotype
+mime jr:
+  bst: '310'
+  nf_type1: Psychic
+  nf_type2: Monotype
+  type1: Psychic
+  type2: Fairy
+mimikyu:
+  bst: '476'
+  nf_type1: Ghost
+  nf_type2: Fairy
+  type1: Ghost
+  type2: Fairy
+minccino:
+  bst: '300'
+  nf_type1: Normal
+  nf_type2: Monotype
+  type1: Normal
+  type2: Monotype
+minior blue core:
+  bst: '500'
+  nf_type1: Rock
+  nf_type2: Flying
+  type1: Rock
+  type2: Flying
+minior green core:
+  bst: '500'
+  nf_type1: Rock
+  nf_type2: Flying
+  type1: Rock
+  type2: Flying
+minior indigo core:
+  bst: '500'
+  nf_type1: Rock
+  nf_type2: Flying
+  type1: Rock
+  type2: Flying
+minior meteor:
+  bst: '440'
+  nf_type1: Rock
+  nf_type2: Flying
+  type1: Rock
+  type2: Flying
+minior orange core:
+  bst: '500'
+  nf_type1: Rock
+  nf_type2: Flying
+  type1: Rock
+  type2: Flying
+minior red core:
+  bst: '500'
+  nf_type1: Rock
+  nf_type2: Flying
+  type1: Rock
+  type2: Flying
+minior violet core:
+  bst: '500'
+  nf_type1: Rock
+  nf_type2: Flying
+  type1: Rock
+  type2: Flying
+minior yellow core:
+  bst: '500'
+  nf_type1: Rock
+  nf_type2: Flying
+  type1: Rock
+  type2: Flying
+minun:
+  bst: '405'
+  nf_type1: Electric
+  nf_type2: Monotype
+  type1: Electric
+  type2: Monotype
+miraidon:
+  bst: '670'
+  nf_type1: Electric
+  nf_type2: Dragon
+  type1: Electric
+  type2: Dragon
+misdreavus:
+  bst: '435'
+  nf_type1: Ghost
+  nf_type2: Monotype
+  type1: Ghost
+  type2: Monotype
+mismagius:
+  bst: '495'
+  nf_type1: Ghost
+  nf_type2: Monotype
+  type1: Ghost
+  type2: Monotype
+moltres:
+  bst: '580'
+  nf_type1: Fire
+  nf_type2: Flying
+  type1: Fire
+  type2: Flying
+moltres galarian:
+  bst: '580'
+  nf_type1: Dark
+  nf_type2: Flying
+  type1: Dark
+  type2: Flying
+monferno:
+  bst: '405'
+  nf_type1: Fire
+  nf_type2: Fighting
+  type1: Fire
+  type2: Fighting
+morelull:
+  bst: '285'
+  nf_type1: Grass
+  nf_type2: Fairy
+  type1: Grass
+  type2: Fairy
+morgrem:
+  bst: '370'
+  nf_type1: Dark
+  nf_type2: Fairy
+  type1: Dark
+  type2: Fairy
+morpeko:
+  bst: '436'
+  nf_type1: Electric
+  nf_type2: Dark
+  type1: Electric
+  type2: Dark
+mothim:
+  bst: '424'
+  nf_type1: Bug
+  nf_type2: Flying
+  type1: Bug
+  type2: Flying
+mr mime:
+  bst: '460'
+  nf_type1: Psychic
+  nf_type2: Monotype
+  type1: Psychic
+  type2: Fairy
+mr mime galarian:
+  bst: '460'
+  nf_type1: Ice
+  nf_type2: Psychic
+  type1: Ice
+  type2: Psychic
+mr rime:
+  bst: '520'
+  nf_type1: Ice
+  nf_type2: Psychic
+  type1: Ice
+  type2: Psychic
+mudbray:
+  bst: '385'
+  nf_type1: Ground
+  nf_type2: Monotype
+  type1: Ground
+  type2: Monotype
+mudkip:
+  bst: '310'
+  nf_type1: Water
+  nf_type2: Monotype
+  type1: Water
+  type2: Monotype
+mudsdale:
+  bst: '500'
+  nf_type1: Ground
+  nf_type2: Monotype
+  type1: Ground
+  type2: Monotype
+muk:
+  bst: '500'
+  nf_type1: Poison
+  nf_type2: Monotype
+  type1: Poison
+  type2: Monotype
+muk alolan:
+  bst: '500'
+  nf_type1: Poison
+  nf_type2: Dark
+  type1: Poison
+  type2: Dark
+munchlax:
+  bst: '390'
+  nf_type1: Normal
+  nf_type2: Monotype
+  type1: Normal
+  type2: Monotype
+munkidori:
+  bst: 555
+  nf_type1: poison
+  nf_type2: psychic
+  type1: poison
+  type2: psychic
+munna:
+  bst: '292'
+  nf_type1: Psychic
+  nf_type2: Monotype
+  type1: Psychic
+  type2: Monotype
+murkrow:
+  bst: '405'
+  nf_type1: Dark
+  nf_type2: Flying
+  type1: Dark
+  type2: Flying
+musharna:
+  bst: '487'
+  nf_type1: Psychic
+  nf_type2: Monotype
+  type1: Psychic
+  type2: Monotype
+nacli:
+  bst: '280'
+  nf_type1: Rock
+  nf_type2: Monotype
+  type1: Rock
+  type2: Monotype
+naclstack:
+  bst: '355'
+  nf_type1: Rock
+  nf_type2: Monotype
+  type1: Rock
+  type2: Monotype
+naganadel:
+  bst: '540'
+  nf_type1: Poison
+  nf_type2: Dragon
+  type1: Poison
+  type2: Dragon
+natu:
+  bst: '320'
+  nf_type1: Psychic
+  nf_type2: Flying
+  type1: Psychic
+  type2: Flying
+necrozma:
+  bst: '600'
+  nf_type1: Psychic
+  nf_type2: Monotype
+  type1: Psychic
+  type2: Monotype
+necrozma dawn wings:
+  bst: '680'
+  nf_type1: Psychic
+  nf_type2: Ghost
+  type1: Psychic
+  type2: Ghost
+necrozma dusk mane:
+  bst: '680'
+  nf_type1: Psychic
+  nf_type2: Steel
+  type1: Psychic
+  type2: Steel
+necrozma ultra:
+  bst: '754'
+  nf_type1: Psychic
+  nf_type2: Dragon
+  type1: Psychic
+  type2: Dragon
+nickit:
+  bst: '245'
+  nf_type1: Dark
+  nf_type2: Monotype
+  type1: Dark
+  type2: Monotype
+nidoking:
+  bst: '505'
+  nf_type1: Poison
+  nf_type2: Ground
+  type1: Poison
+  type2: Ground
+nidoqueen:
+  bst: '505'
+  nf_type1: Poison
+  nf_type2: Ground
+  type1: Poison
+  type2: Ground
+nidoran female:
+  bst: '275'
+  nf_type1: Poison
+  nf_type2: Monotype
+  type1: Poison
+  type2: Monotype
+nidoran male:
+  bst: '273'
+  nf_type1: Poison
+  nf_type2: Monotype
+  type1: Poison
+  type2: Monotype
+nidorina:
+  bst: '365'
+  nf_type1: Poison
+  nf_type2: Monotype
+  type1: Poison
+  type2: Monotype
+nidorino:
+  bst: '365'
+  nf_type1: Poison
+  nf_type2: Monotype
+  type1: Poison
+  type2: Monotype
+nihilego:
+  bst: '570'
+  nf_type1: Rock
+  nf_type2: Poison
+  type1: Rock
+  type2: Poison
+nincada:
+  bst: '266'
+  nf_type1: Bug
+  nf_type2: Ground
+  type1: Bug
+  type2: Ground
+ninetales:
+  bst: '505'
+  nf_type1: Fire
+  nf_type2: Monotype
+  type1: Fire
+  type2: Monotype
+ninetales alolan:
+  bst: '505'
+  nf_type1: Ice
+  nf_type2: Fairy
+  type1: Ice
+  type2: Fairy
+ninjask:
+  bst: '456'
+  nf_type1: Bug
+  nf_type2: Flying
+  type1: Bug
+  type2: Flying
+noctowl:
+  bst: '452'
+  nf_type1: Normal
+  nf_type2: Flying
+  type1: Normal
+  type2: Flying
+noibat:
+  bst: '245'
+  nf_type1: Flying
+  nf_type2: Dragon
+  type1: Flying
+  type2: Dragon
+noivern:
+  bst: '535'
+  nf_type1: Flying
+  nf_type2: Dragon
+  type1: Flying
+  type2: Dragon
+nosepass:
+  bst: '375'
+  nf_type1: Rock
+  nf_type2: Monotype
+  type1: Rock
+  type2: Monotype
+numel:
+  bst: '305'
+  nf_type1: Fire
+  nf_type2: Ground
+  type1: Fire
+  type2: Ground
+nuzleaf:
+  bst: '340'
+  nf_type1: Grass
+  nf_type2: Dark
+  type1: Grass
+  type2: Dark
+nymble:
+  bst: '210'
+  nf_type1: Bug
+  nf_type2: Monotype
+  type1: Bug
+  type2: Monotype
+obstagoon:
+  bst: '520'
+  nf_type1: Dark
+  nf_type2: Normal
+  type1: Dark
+  type2: Normal
+octillery:
+  bst: '480'
+  nf_type1: Water
+  nf_type2: Monotype
+  type1: Water
+  type2: Monotype
+oddish:
+  bst: '320'
+  nf_type1: Grass
+  nf_type2: Poison
+  type1: Grass
+  type2: Poison
+ogerpon cornerstone mask:
+  bst: 550
+  nf_type1: grass
+  nf_type2: rock
+  type1: grass
+  type2: rock
+ogerpon hearthflame mask:
+  bst: 550
+  nf_type1: grass
+  nf_type2: fire
+  type1: grass
+  type2: fire
+ogerpon teal mask:
+  bst: 550
+  nf_type1: grass
+  nf_type2: monotype
+  type1: grass
+  type2: monotype
+ogerpon wellspring mask:
+  bst: 550
+  nf_type1: grass
+  nf_type2: water
+  type1: grass
+  type2: water
+oinkologne:
+  bst: '489'
+  nf_type1: Normal
+  nf_type2: Monotype
+  type1: Normal
+  type2: Monotype
+okidogi:
+  bst: 555
+  nf_type1: poison
+  nf_type2: fighting
+  type1: poison
+  type2: fighting
+omanyte:
+  bst: '355'
+  nf_type1: Rock
+  nf_type2: Water
+  type1: Rock
+  type2: Water
+omastar:
+  bst: '495'
+  nf_type1: Rock
+  nf_type2: Water
+  type1: Rock
+  type2: Water
+onix:
+  bst: '385'
+  nf_type1: Rock
+  nf_type2: Ground
+  type1: Rock
+  type2: Ground
+oranguru:
+  bst: '490'
+  nf_type1: Normal
+  nf_type2: Psychic
+  type1: Normal
+  type2: Psychic
+orbeetle:
+  bst: '505'
+  nf_type1: Bug
+  nf_type2: Psychic
+  type1: Bug
+  type2: Psychic
+oricorio baile:
+  bst: '476'
+  nf_type1: Fire
+  nf_type2: Flying
+  type1: Fire
+  type2: Flying
+oricorio pau:
+  bst: '476'
+  nf_type1: Psychic
+  nf_type2: Flying
+  type1: Psychic
+  type2: Flying
+oricorio pompom:
+  bst: '476'
+  nf_type1: Electric
+  nf_type2: Flying
+  type1: Electric
+  type2: Flying
+oricorio sensu:
+  bst: '476'
+  nf_type1: Ghost
+  nf_type2: Flying
+  type1: Ghost
+  type2: Flying
+orthworm:
+  bst: '480'
+  nf_type1: Steel
+  nf_type2: Monotype
+  type1: Steel
+  type2: Monotype
+oshawott:
+  bst: '308'
+  nf_type1: Water
+  nf_type2: Monotype
+  type1: Water
+  type2: Monotype
+overqwil:
+  bst: '510'
+  nf_type1: Dark
+  nf_type2: Poison
+  type1: Dark
+  type2: Poison
+pachirisu:
+  bst: '405'
+  nf_type1: Electric
+  nf_type2: Monotype
+  type1: Electric
+  type2: Monotype
+palafin hero:
+  bst: '650'
+  nf_type1: Water
+  nf_type2: Monotype
+  type1: Water
+  type2: Monotype
+palafin zero:
+  bst: '457'
+  nf_type1: Water
+  nf_type2: Monotype
+  type1: Water
+  type2: Monotype
+palkia:
+  bst: '680'
+  nf_type1: Water
+  nf_type2: Dragon
+  type1: Water
+  type2: Dragon
+palossand:
+  bst: '480'
+  nf_type1: Ghost
+  nf_type2: Ground
+  type1: Ghost
+  type2: Ground
+palpitoad:
+  bst: '384'
+  nf_type1: Water
+  nf_type2: Ground
+  type1: Water
+  type2: Ground
+pancham:
+  bst: '348'
+  nf_type1: Fighting
+  nf_type2: Monotype
+  type1: Fighting
+  type2: Monotype
+pangoro:
+  bst: '495'
+  nf_type1: Fighting
+  nf_type2: Dark
+  type1: Fighting
+  type2: Dark
+panpour:
+  bst: '316'
+  nf_type1: Water
+  nf_type2: Monotype
+  type1: Water
+  type2: Monotype
+pansage:
+  bst: '316'
+  nf_type1: Grass
+  nf_type2: Monotype
+  type1: Grass
+  type2: Monotype
+pansear:
+  bst: '316'
+  nf_type1: Fire
+  nf_type2: Monotype
+  type1: Fire
+  type2: Monotype
+paras:
+  bst: '285'
+  nf_type1: Bug
+  nf_type2: Grass
+  type1: Bug
+  type2: Grass
+parasect:
+  bst: '405'
+  nf_type1: Bug
+  nf_type2: Grass
+  type1: Bug
+  type2: Grass
+passimian:
+  bst: '490'
+  nf_type1: Fighting
+  nf_type2: Monotype
+  type1: Fighting
+  type2: Monotype
+patrat:
+  bst: '255'
+  nf_type1: Normal
+  nf_type2: Monotype
+  type1: Normal
+  type2: Monotype
+pawmi:
+  bst: '240'
+  nf_type1: Electric
+  nf_type2: Monotype
+  type1: Electric
+  type2: Monotype
+pawmo:
+  bst: '350'
+  nf_type1: Electric
+  nf_type2: Fighting
+  type1: Electric
+  type2: Fighting
+pawmot:
+  bst: '490'
+  nf_type1: Electric
+  nf_type2: Fighting
+  type1: Electric
+  type2: Fighting
+pawniard:
+  bst: '340'
+  nf_type1: Dark
+  nf_type2: Steel
+  type1: Dark
+  type2: Steel
+pecharunt:
+  bst: 600
+  nf_type1: poison
+  nf_type2: ghost
+  type1: poison
+  type2: ghost
+pelipper:
+  bst: '440'
+  nf_type1: Water
+  nf_type2: Flying
+  type1: Water
+  type2: Flying
+perrserker:
+  bst: '440'
+  nf_type1: Steel
+  nf_type2: Monotype
+  type1: Steel
+  type2: Monotype
+persian:
+  bst: '440'
+  nf_type1: Normal
+  nf_type2: Monotype
+  type1: Normal
+  type2: Monotype
+persian alolan:
+  bst: '440'
+  nf_type1: Dark
+  nf_type2: Monotype
+  type1: Dark
+  type2: Monotype
+petilil:
+  bst: '280'
+  nf_type1: Grass
+  nf_type2: Monotype
+  type1: Grass
+  type2: Monotype
+phanpy:
+  bst: '330'
+  nf_type1: Ground
+  nf_type2: Monotype
+  type1: Ground
+  type2: Monotype
+phantump:
+  bst: '309'
+  nf_type1: Ghost
+  nf_type2: Grass
+  type1: Ghost
+  type2: Grass
+pheromosa:
+  bst: '570'
+  nf_type1: Bug
+  nf_type2: Fighting
+  type1: Bug
+  type2: Fighting
+phione:
+  bst: '480'
+  nf_type1: Water
+  nf_type2: Monotype
+  type1: Water
+  type2: Monotype
+pichu:
+  bst: '205'
+  nf_type1: Electric
+  nf_type2: Monotype
+  type1: Electric
+  type2: Monotype
+pidgeot:
+  bst: '469'
+  nf_type1: Normal
+  nf_type2: Flying
+  type1: Normal
+  type2: Flying
+pidgeot mega:
+  bst: '579'
+  nf_type1: Normal
+  nf_type2: Flying
+  type1: Normal
+  type2: Flying
+pidgeotto:
+  bst: '349'
+  nf_type1: Normal
+  nf_type2: Flying
+  type1: Normal
+  type2: Flying
+pidgey:
+  bst: '251'
+  nf_type1: Normal
+  nf_type2: Flying
+  type1: Normal
+  type2: Flying
+pidove:
+  bst: '264'
+  nf_type1: Normal
+  nf_type2: Flying
+  type1: Normal
+  type2: Flying
+pignite:
+  bst: '418'
+  nf_type1: Fire
+  nf_type2: Fighting
+  type1: Fire
+  type2: Fighting
+pikachu:
+  bst: '320'
+  nf_type1: Electric
+  nf_type2: Monotype
+  type1: Electric
+  type2: Monotype
+pikipek:
+  bst: '265'
+  nf_type1: Normal
+  nf_type2: Flying
+  type1: Normal
+  type2: Flying
+piloswine:
+  bst: '450'
+  nf_type1: Ice
+  nf_type2: Ground
+  type1: Ice
+  type2: Ground
+pincurchin:
+  bst: '435'
+  nf_type1: Electric
+  nf_type2: Monotype
+  type1: Electric
+  type2: Monotype
+pineco:
+  bst: '290'
+  nf_type1: Bug
+  nf_type2: Monotype
+  type1: Bug
+  type2: Monotype
+pinsir:
+  bst: '500'
+  nf_type1: Bug
+  nf_type2: Monotype
+  type1: Bug
+  type2: Monotype
+pinsir mega:
+  bst: '600'
+  nf_type1: Bug
+  nf_type2: Flying
+  type1: Bug
+  type2: Flying
+piplup:
+  bst: '314'
+  nf_type1: Water
+  nf_type2: Monotype
+  type1: Water
+  type2: Monotype
+plusle:
+  bst: '405'
+  nf_type1: Electric
+  nf_type2: Monotype
+  type1: Electric
+  type2: Monotype
+poipole:
+  bst: '420'
+  nf_type1: Poison
+  nf_type2: Monotype
+  type1: Poison
+  type2: Monotype
+politoed:
+  bst: '500'
+  nf_type1: Water
+  nf_type2: Monotype
+  type1: Water
+  type2: Monotype
+poliwag:
+  bst: '300'
+  nf_type1: Water
+  nf_type2: Monotype
+  type1: Water
+  type2: Monotype
+poliwhirl:
+  bst: '385'
+  nf_type1: Water
+  nf_type2: Monotype
+  type1: Water
+  type2: Monotype
+poliwrath:
+  bst: '510'
+  nf_type1: Water
+  nf_type2: Fighting
+  type1: Water
+  type2: Fighting
+poltchageist:
+  bst: 308
+  nf_type1: grass
+  nf_type2: ghost
+  type1: grass
+  type2: ghost
+polteageist:
+  bst: '508'
+  nf_type1: Ghost
+  nf_type2: Monotype
+  type1: Ghost
+  type2: Monotype
+ponyta:
+  bst: '410'
+  nf_type1: Fire
+  nf_type2: Monotype
+  type1: Fire
+  type2: Monotype
+ponyta galarian:
+  bst: '410'
+  nf_type1: Psychic
+  nf_type2: Monotype
+  type1: Psychic
+  type2: Monotype
+poochyena:
+  bst: '220'
+  nf_type1: Dark
+  nf_type2: Monotype
+  type1: Dark
+  type2: Monotype
+popplio:
+  bst: '320'
+  nf_type1: Water
+  nf_type2: Monotype
+  type1: Water
+  type2: Monotype
+porygon:
+  bst: '395'
+  nf_type1: Normal
+  nf_type2: Monotype
+  type1: Normal
+  type2: Monotype
+porygon2:
+  bst: '515'
+  nf_type1: Normal
+  nf_type2: Monotype
+  type1: Normal
+  type2: Monotype
+porygonz:
+  bst: '535'
+  nf_type1: Normal
+  nf_type2: Monotype
+  type1: Normal
+  type2: Monotype
+primarina:
+  bst: '530'
+  nf_type1: Water
+  nf_type2: Fairy
+  type1: Water
+  type2: Fairy
+primeape:
+  bst: '455'
+  nf_type1: Fighting
+  nf_type2: Monotype
+  type1: Fighting
+  type2: Monotype
+prinplup:
+  bst: '405'
+  nf_type1: Water
+  nf_type2: Monotype
+  type1: Water
+  type2: Monotype
+probopass:
+  bst: '525'
+  nf_type1: Rock
+  nf_type2: Steel
+  type1: Rock
+  type2: Steel
+psyduck:
+  bst: '320'
+  nf_type1: Water
+  nf_type2: Monotype
+  type1: Water
+  type2: Monotype
+pumpkaboo:
+  bst: '335'
+  nf_type1: Ghost
+  nf_type2: Grass
+  type1: Ghost
+  type2: Grass
+pupitar:
+  bst: '410'
+  nf_type1: Rock
+  nf_type2: Ground
+  type1: Rock
+  type2: Ground
+purrloin:
+  bst: '281'
+  nf_type1: Dark
+  nf_type2: Monotype
+  type1: Dark
+  type2: Monotype
+purugly:
+  bst: '452'
+  nf_type1: Normal
+  nf_type2: Monotype
+  type1: Normal
+  type2: Monotype
+pyroar:
+  bst: '507'
+  nf_type1: Fire
+  nf_type2: Normal
+  type1: Fire
+  type2: Normal
+pyukumuku:
+  bst: '410'
+  nf_type1: Water
+  nf_type2: Monotype
+  type1: Water
+  type2: Monotype
+quagsire:
+  bst: '430'
+  nf_type1: Water
+  nf_type2: Ground
+  type1: Water
+  type2: Ground
+quaquaval:
+  bst: '530'
+  nf_type1: Water
+  nf_type2: Fighting
+  type1: Water
+  type2: Fighting
+quaxly:
+  bst: '310'
+  nf_type1: Water
+  nf_type2: Monotype
+  type1: Water
+  type2: Monotype
+quaxwell:
+  bst: '410'
+  nf_type1: Water
+  nf_type2: Monotype
+  type1: Water
+  type2: Monotype
+quilava:
+  bst: '405'
+  nf_type1: Fire
+  nf_type2: Monotype
+  type1: Fire
+  type2: Monotype
+quilladin:
+  bst: '405'
+  nf_type1: Grass
+  nf_type2: Monotype
+  type1: Grass
+  type2: Monotype
+qwilfish:
+  bst: '440'
+  nf_type1: Water
+  nf_type2: Poison
+  type1: Water
+  type2: Poison
+qwilfish hisuian:
+  bst: '440'
+  nf_type1: Dark
+  nf_type2: Poison
+  type1: Dark
+  type2: Poison
+raboot:
+  bst: '420'
+  nf_type1: Fire
+  nf_type2: Monotype
+  type1: Fire
+  type2: Monotype
+rabsca:
+  bst: '470'
+  nf_type1: Bug
+  nf_type2: Psychic
+  type1: Bug
+  type2: Psychic
+raging bolt:
+  bst: 590
+  nf_type1: electric
+  nf_type2: dragon
+  type1: electric
+  type2: dragon
+raichu:
+  bst: '485'
+  nf_type1: Electric
+  nf_type2: Monotype
+  type1: Electric
+  type2: Monotype
+raichu alolan:
+  bst: '485'
+  nf_type1: Electric
+  nf_type2: Psychic
+  type1: Electric
+  type2: Psychic
+raikou:
+  bst: '580'
+  nf_type1: Electric
+  nf_type2: Monotype
+  type1: Electric
+  type2: Monotype
+ralts:
+  bst: '198'
+  nf_type1: Psychic
+  nf_type2: Monotype
+  type1: Psychic
+  type2: Fairy
+rampardos:
+  bst: '495'
+  nf_type1: Rock
+  nf_type2: Monotype
+  type1: Rock
+  type2: Monotype
+rapidash:
+  bst: '500'
+  nf_type1: Fire
+  nf_type2: Monotype
+  type1: Fire
+  type2: Monotype
+rapidash galarian:
+  bst: '500'
+  nf_type1: Psychic
+  nf_type2: Fairy
+  type1: Psychic
+  type2: Fairy
+raticate:
+  bst: '413'
+  nf_type1: Normal
+  nf_type2: Monotype
+  type1: Normal
+  type2: Monotype
+raticate alolan:
+  bst: '413'
+  nf_type1: Dark
+  nf_type2: Normal
+  type1: Dark
+  type2: Normal
+rattata:
+  bst: '253'
+  nf_type1: Normal
+  nf_type2: Monotype
+  type1: Normal
+  type2: Monotype
+rattata alolan:
+  bst: '253'
+  nf_type1: Dark
+  nf_type2: Normal
+  type1: Dark
+  type2: Normal
+rayquaza:
+  bst: '680'
+  nf_type1: Dragon
+  nf_type2: Flying
+  type1: Dragon
+  type2: Flying
+rayquaza mega:
+  bst: '780'
+  nf_type1: Dragon
+  nf_type2: Flying
+  type1: Dragon
+  type2: Flying
+regice:
+  bst: '580'
+  nf_type1: Ice
+  nf_type2: Monotype
+  type1: Ice
+  type2: Monotype
+regidrago:
+  bst: '580'
+  nf_type1: Dragon
+  nf_type2: Monotype
+  type1: Dragon
+  type2: Monotype
+regieleki:
+  bst: '580'
+  nf_type1: Electric
+  nf_type2: Monotype
+  type1: Electric
+  type2: Monotype
+regigigas:
+  bst: '670'
+  nf_type1: Normal
+  nf_type2: Monotype
+  type1: Normal
+  type2: Monotype
+regirock:
+  bst: '580'
+  nf_type1: Rock
+  nf_type2: Monotype
+  type1: Rock
+  type2: Monotype
+registeel:
+  bst: '580'
+  nf_type1: Steel
+  nf_type2: Monotype
+  type1: Steel
+  type2: Monotype
+relicanth:
+  bst: '485'
+  nf_type1: Water
+  nf_type2: Rock
+  type1: Water
+  type2: Rock
+rellor:
+  bst: '270'
+  nf_type1: Bug
+  nf_type2: Monotype
+  type1: Bug
+  type2: Monotype
+remoraid:
+  bst: '300'
+  nf_type1: Water
+  nf_type2: Monotype
+  type1: Water
+  type2: Monotype
+reshiram:
+  bst: '680'
+  nf_type1: Dragon
+  nf_type2: Fire
+  type1: Dragon
+  type2: Fire
+reuniclus:
+  bst: '490'
+  nf_type1: Psychic
+  nf_type2: Monotype
+  type1: Psychic
+  type2: Monotype
+revavroom:
+  bst: '500'
+  nf_type1: Steel
+  nf_type2: Poison
+  type1: Steel
+  type2: Poison
+rhydon:
+  bst: '485'
+  nf_type1: Ground
+  nf_type2: Rock
+  type1: Ground
+  type2: Rock
+rhyhorn:
+  bst: '345'
+  nf_type1: Ground
+  nf_type2: Rock
+  type1: Ground
+  type2: Rock
+rhyperior:
+  bst: '535'
+  nf_type1: Ground
+  nf_type2: Rock
+  type1: Ground
+  type2: Rock
+ribombee:
+  bst: '464'
+  nf_type1: Bug
+  nf_type2: Fairy
+  type1: Bug
+  type2: Fairy
+rillaboom:
+  bst: '530'
+  nf_type1: Grass
+  nf_type2: Monotype
+  type1: Grass
+  type2: Monotype
+riolu:
+  bst: '285'
+  nf_type1: Fighting
+  nf_type2: Monotype
+  type1: Fighting
+  type2: Monotype
+roaring moon:
+  bst: '590'
+  nf_type1: Dragon
+  nf_type2: Dark
+  type1: Dragon
+  type2: Dark
+rockruff:
+  bst: '280'
+  nf_type1: Rock
+  nf_type2: Monotype
+  type1: Rock
+  type2: Monotype
+roggenrola:
+  bst: '280'
+  nf_type1: Rock
+  nf_type2: Monotype
+  type1: Rock
+  type2: Monotype
+rolycoly:
+  bst: '240'
+  nf_type1: Rock
+  nf_type2: Monotype
+  type1: Rock
+  type2: Monotype
+rookidee:
+  bst: '245'
+  nf_type1: Flying
+  nf_type2: Monotype
+  type1: Flying
+  type2: Monotype
+roselia:
+  bst: '400'
+  nf_type1: Grass
+  nf_type2: Poison
+  type1: Grass
+  type2: Poison
+roserade:
+  bst: '515'
+  nf_type1: Grass
+  nf_type2: Poison
+  type1: Grass
+  type2: Poison
+rotom:
+  bst: '440'
+  nf_type1: Electric
+  nf_type2: Ghost
+  type1: Electric
+  type2: Ghost
+rotom fan:
+  bst: '520'
+  nf_type1: Electric
+  nf_type2: Flying
+  type1: Electric
+  type2: Flying
+rotom frost:
+  bst: '520'
+  nf_type1: Electric
+  nf_type2: Ice
+  type1: Electric
+  type2: Ice
+rotom heat:
+  bst: '520'
+  nf_type1: Electric
+  nf_type2: Fire
+  type1: Electric
+  type2: Fire
+rotom mow:
+  bst: '520'
+  nf_type1: Electric
+  nf_type2: Grass
+  type1: Electric
+  type2: Grass
+rotom wash:
+  bst: '520'
+  nf_type1: Electric
+  nf_type2: Water
+  type1: Electric
+  type2: Water
+rowlet:
+  bst: '320'
+  nf_type1: Grass
+  nf_type2: Flying
+  type1: Grass
+  type2: Flying
+rufflet:
+  bst: '350'
+  nf_type1: Normal
+  nf_type2: Flying
+  type1: Normal
+  type2: Flying
+runerigus:
+  bst: '483'
+  nf_type1: Ground
+  nf_type2: Ghost
+  type1: Ground
+  type2: Ghost
+sableye:
+  bst: '380'
+  nf_type1: Dark
+  nf_type2: Ghost
+  type1: Dark
+  type2: Ghost
+sableye mega:
+  bst: '480'
+  nf_type1: Dark
+  nf_type2: Ghost
+  type1: Dark
+  type2: Ghost
+salamence:
+  bst: '600'
+  nf_type1: Dragon
+  nf_type2: Flying
+  type1: Dragon
+  type2: Flying
+salamence mega:
+  bst: '700'
+  nf_type1: Dragon
+  nf_type2: Flying
+  type1: Dragon
+  type2: Flying
+salandit:
+  bst: '320'
+  nf_type1: Poison
+  nf_type2: Fire
+  type1: Poison
+  type2: Fire
+salazzle:
+  bst: '480'
+  nf_type1: Poison
+  nf_type2: Fire
+  type1: Poison
+  type2: Fire
+samurott:
+  bst: '528'
+  nf_type1: Water
+  nf_type2: Monotype
+  type1: Water
+  type2: Monotype
+samurott hisuian:
+  bst: '528'
+  nf_type1: Water
+  nf_type2: Dark
+  type1: Water
+  type2: Dark
+sandaconda:
+  bst: '510'
+  nf_type1: Ground
+  nf_type2: Monotype
+  type1: Ground
+  type2: Monotype
+sandile:
+  bst: '292'
+  nf_type1: Ground
+  nf_type2: Dark
+  type1: Ground
+  type2: Dark
+sandshrew:
+  bst: '300'
+  nf_type1: Ground
+  nf_type2: Monotype
+  type1: Ground
+  type2: Monotype
+sandshrew alolan:
+  bst: '300'
+  nf_type1: Ice
+  nf_type2: Steel
+  type1: Ice
+  type2: Steel
+sandslash:
+  bst: '450'
+  nf_type1: Ground
+  nf_type2: Monotype
+  type1: Ground
+  type2: Monotype
+sandslash alolan:
+  bst: '450'
+  nf_type1: Ice
+  nf_type2: Steel
+  type1: Ice
+  type2: Steel
+sandy shocks:
+  bst: '570'
+  nf_type1: Electric
+  nf_type2: Ground
+  type1: Electric
+  type2: Ground
+sandygast:
+  bst: '320'
+  nf_type1: Ghost
+  nf_type2: Ground
+  type1: Ghost
+  type2: Ground
+sawk:
+  bst: '465'
+  nf_type1: Fighting
+  nf_type2: Monotype
+  type1: Fighting
+  type2: Monotype
+sawsbuck:
+  bst: '475'
+  nf_type1: Normal
+  nf_type2: Grass
+  type1: Normal
+  type2: Grass
+scatterbug:
+  bst: '200'
+  nf_type1: Bug
+  nf_type2: Monotype
+  type1: Bug
+  type2: Monotype
+sceptile:
+  bst: '530'
+  nf_type1: Grass
+  nf_type2: Monotype
+  type1: Grass
+  type2: Monotype
+sceptile mega:
+  bst: '630'
+  nf_type1: Grass
+  nf_type2: Dragon
+  type1: Grass
+  type2: Dragon
+scizor:
+  bst: '500'
+  nf_type1: Bug
+  nf_type2: Steel
+  type1: Bug
+  type2: Steel
+scizor mega:
+  bst: '600'
+  nf_type1: Bug
+  nf_type2: Steel
+  type1: Bug
+  type2: Steel
+scolipede:
+  bst: '485'
+  nf_type1: Bug
+  nf_type2: Poison
+  type1: Bug
+  type2: Poison
+scorbunny:
+  bst: '310'
+  nf_type1: Fire
+  nf_type2: Monotype
+  type1: Fire
+  type2: Monotype
+scovillain:
+  bst: '486'
+  nf_type1: Grass
+  nf_type2: Fire
+  type1: Grass
+  type2: Fire
+scrafty:
+  bst: '488'
+  nf_type1: Dark
+  nf_type2: Fighting
+  type1: Dark
+  type2: Fighting
+scraggy:
+  bst: '348'
+  nf_type1: Dark
+  nf_type2: Fighting
+  type1: Dark
+  type2: Fighting
+scream tail:
+  bst: '570'
+  nf_type1: Fairy
+  nf_type2: Psychic
+  type1: Fairy
+  type2: Psychic
+scyther:
+  bst: '500'
+  nf_type1: Bug
+  nf_type2: Flying
+  type1: Bug
+  type2: Flying
+seadra:
+  bst: '440'
+  nf_type1: Water
+  nf_type2: Monotype
+  type1: Water
+  type2: Monotype
+seaking:
+  bst: '450'
+  nf_type1: Water
+  nf_type2: Monotype
+  type1: Water
+  type2: Monotype
+sealeo:
+  bst: '410'
+  nf_type1: Ice
+  nf_type2: Water
+  type1: Ice
+  type2: Water
+seedot:
+  bst: '220'
+  nf_type1: Grass
+  nf_type2: Monotype
+  type1: Grass
+  type2: Monotype
+seel:
+  bst: '325'
+  nf_type1: Water
+  nf_type2: Monotype
+  type1: Water
+  type2: Monotype
+seismitoad:
+  bst: '509'
+  nf_type1: Water
+  nf_type2: Ground
+  type1: Water
+  type2: Ground
+sentret:
+  bst: '215'
+  nf_type1: Normal
+  nf_type2: Monotype
+  type1: Normal
+  type2: Monotype
+serperior:
+  bst: '528'
+  nf_type1: Grass
+  nf_type2: Monotype
+  type1: Grass
+  type2: Monotype
+servine:
+  bst: '413'
+  nf_type1: Grass
+  nf_type2: Monotype
+  type1: Grass
+  type2: Monotype
+seviper:
+  bst: '458'
+  nf_type1: Poison
+  nf_type2: Monotype
+  type1: Poison
+  type2: Monotype
+sewaddle:
+  bst: '310'
+  nf_type1: Bug
+  nf_type2: Grass
+  type1: Bug
+  type2: Grass
+sharpedo:
+  bst: '460'
+  nf_type1: Water
+  nf_type2: Dark
+  type1: Water
+  type2: Dark
+sharpedo mega:
+  bst: '560'
+  nf_type1: Water
+  nf_type2: Dark
+  type1: Water
+  type2: Dark
+shaymin land:
+  bst: '600'
+  nf_type1: Grass
+  nf_type2: Monotype
+  type1: Grass
+  type2: Monotype
+shaymin sky:
+  bst: '600'
+  nf_type1: Grass
+  nf_type2: Flying
+  type1: Grass
+  type2: Flying
+shedinja:
+  bst: '236'
+  nf_type1: Bug
+  nf_type2: Ghost
+  type1: Bug
+  type2: Ghost
+shelgon:
+  bst: '420'
+  nf_type1: Dragon
+  nf_type2: Monotype
+  type1: Dragon
+  type2: Monotype
+shellder:
+  bst: '305'
+  nf_type1: Water
+  nf_type2: Monotype
+  type1: Water
+  type2: Monotype
+shellos:
+  bst: '325'
+  nf_type1: Water
+  nf_type2: Monotype
+  type1: Water
+  type2: Monotype
+shelmet:
+  bst: '305'
+  nf_type1: Bug
+  nf_type2: Monotype
+  type1: Bug
+  type2: Monotype
+shieldon:
+  bst: '350'
+  nf_type1: Rock
+  nf_type2: Steel
+  type1: Rock
+  type2: Steel
+shiftry:
+  bst: '480'
+  nf_type1: Grass
+  nf_type2: Dark
+  type1: Grass
+  type2: Dark
+shiinotic:
+  bst: '405'
+  nf_type1: Grass
+  nf_type2: Fairy
+  type1: Grass
+  type2: Fairy
+shinx:
+  bst: '263'
+  nf_type1: Electric
+  nf_type2: Monotype
+  type1: Electric
+  type2: Monotype
+shroodle:
+  bst: '290'
+  nf_type1: Poison
+  nf_type2: Normal
+  type1: Poison
+  type2: Normal
+shroomish:
+  bst: '295'
+  nf_type1: Grass
+  nf_type2: Monotype
+  type1: Grass
+  type2: Monotype
+shuckle:
+  bst: '505'
+  nf_type1: Bug
+  nf_type2: Rock
+  type1: Bug
+  type2: Rock
+shuppet:
+  bst: '295'
+  nf_type1: Ghost
+  nf_type2: Monotype
+  type1: Ghost
+  type2: Monotype
+sigilyph:
+  bst: '490'
+  nf_type1: Psychic
+  nf_type2: Flying
+  type1: Psychic
+  type2: Flying
+silcoon:
+  bst: '205'
+  nf_type1: Bug
+  nf_type2: Monotype
+  type1: Bug
+  type2: Monotype
+silicobra:
+  bst: '315'
+  nf_type1: Ground
+  nf_type2: Monotype
+  type1: Ground
+  type2: Monotype
+silvally:
+  bst: '570'
+  nf_type1: Normal
+  nf_type2: Monotype
+  type1: Normal
+  type2: Monotype
+simipour:
+  bst: '498'
+  nf_type1: Water
+  nf_type2: Monotype
+  type1: Water
+  type2: Monotype
+simisage:
+  bst: '498'
+  nf_type1: Grass
+  nf_type2: Monotype
+  type1: Grass
+  type2: Monotype
+simisear:
+  bst: '498'
+  nf_type1: Fire
+  nf_type2: Monotype
+  type1: Fire
+  type2: Monotype
+sinistcha:
+  bst: 508
+  nf_type1: grass
+  nf_type2: ghost
+  type1: grass
+  type2: ghost
+sinistea:
+  bst: '308'
+  nf_type1: Ghost
+  nf_type2: Monotype
+  type1: Ghost
+  type2: Monotype
+sirfetchd:
+  bst: '507'
+  nf_type1: Fighting
+  nf_type2: Monotype
+  type1: Fighting
+  type2: Monotype
+sizzlipede:
+  bst: '305'
+  nf_type1: Fire
+  nf_type2: Bug
+  type1: Fire
+  type2: Bug
+skarmory:
+  bst: '465'
+  nf_type1: Steel
+  nf_type2: Flying
+  type1: Steel
+  type2: Flying
+skeledirge:
+  bst: '530'
+  nf_type1: Fire
+  nf_type2: Ghost
+  type1: Fire
+  type2: Ghost
+skiddo:
+  bst: '350'
+  nf_type1: Grass
+  nf_type2: Monotype
+  type1: Grass
+  type2: Monotype
+skiploom:
+  bst: '340'
+  nf_type1: Grass
+  nf_type2: Flying
+  type1: Grass
+  type2: Flying
+skitty:
+  bst: '260'
+  nf_type1: Normal
+  nf_type2: Monotype
+  type1: Normal
+  type2: Monotype
+skorupi:
+  bst: '330'
+  nf_type1: Poison
+  nf_type2: Bug
+  type1: Poison
+  type2: Bug
+skrelp:
+  bst: '320'
+  nf_type1: Poison
+  nf_type2: Water
+  type1: Poison
+  type2: Water
+skuntank:
+  bst: '479'
+  nf_type1: Poison
+  nf_type2: Dark
+  type1: Poison
+  type2: Dark
+skwovet:
+  bst: '275'
+  nf_type1: Normal
+  nf_type2: Monotype
+  type1: Normal
+  type2: Monotype
+slaking:
+  bst: '670'
+  nf_type1: Normal
+  nf_type2: Monotype
+  type1: Normal
+  type2: Monotype
+slakoth:
+  bst: '280'
+  nf_type1: Normal
+  nf_type2: Monotype
+  type1: Normal
+  type2: Monotype
+sliggoo:
+  bst: '452'
+  nf_type1: Dragon
+  nf_type2: Monotype
+  type1: Dragon
+  type2: Monotype
+sliggoo hisuian:
+  bst: '452'
+  nf_type1: Steel
+  nf_type2: Dragon
+  type1: Steel
+  type2: Dragon
+slither wing:
+  bst: '570'
+  nf_type1: Bug
+  nf_type2: Fighting
+  type1: Bug
+  type2: Fighting
+slowbro:
+  bst: '490'
+  nf_type1: Water
+  nf_type2: Psychic
+  type1: Water
+  type2: Psychic
+slowbro galarian:
+  bst: '480'
+  nf_type1: Poison
+  nf_type2: Psychic
+  type1: Poison
+  type2: Psychic
+slowbro mega:
+  bst: '590'
+  nf_type1: Water
+  nf_type2: Psychic
+  type1: Water
+  type2: Psychic
+slowking:
+  bst: '490'
+  nf_type1: Water
+  nf_type2: Psychic
+  type1: Water
+  type2: Psychic
+slowking galarian:
+  bst: '490'
+  nf_type1: Poison
+  nf_type2: Psychic
+  type1: Poison
+  type2: Psychic
+slowpoke:
+  bst: '315'
+  nf_type1: Water
+  nf_type2: Psychic
+  type1: Water
+  type2: Psychic
+slowpoke galarian:
+  bst: '315'
+  nf_type1: Psychic
+  nf_type2: Monotype
+  type1: Psychic
+  type2: Monotype
+slugma:
+  bst: '250'
+  nf_type1: Fire
+  nf_type2: Monotype
+  type1: Fire
+  type2: Monotype
+slurpuff:
+  bst: '480'
+  nf_type1: Fairy
+  nf_type2: Monotype
+  type1: Fairy
+  type2: Monotype
+smeargle:
+  bst: '250'
+  nf_type1: Normal
+  nf_type2: Monotype
+  type1: Normal
+  type2: Monotype
+smoliv:
+  bst: '260'
+  nf_type1: Grass
+  nf_type2: Normal
+  type1: Grass
+  type2: Normal
+smoochum:
+  bst: '305'
+  nf_type1: Ice
+  nf_type2: Psychic
+  type1: Ice
+  type2: Psychic
+sneasel:
+  bst: '430'
+  nf_type1: Dark
+  nf_type2: Ice
+  type1: Dark
+  type2: Ice
+sneasel hisuian:
+  bst: '430'
+  nf_type1: Fighting
+  nf_type2: Poison
+  type1: Fighting
+  type2: Poison
+sneasler:
+  bst: '510'
+  nf_type1: Fighting
+  nf_type2: Poison
+  type1: Fighting
+  type2: Poison
+snivy:
+  bst: '308'
+  nf_type1: Grass
+  nf_type2: Monotype
+  type1: Grass
+  type2: Monotype
+snom:
+  bst: '185'
+  nf_type1: Ice
+  nf_type2: Bug
+  type1: Ice
+  type2: Bug
+snorlax:
+  bst: '540'
+  nf_type1: Normal
+  nf_type2: Monotype
+  type1: Normal
+  type2: Monotype
+snorunt:
+  bst: '300'
+  nf_type1: Ice
+  nf_type2: Monotype
+  type1: Ice
+  type2: Monotype
+snover:
+  bst: '334'
+  nf_type1: Grass
+  nf_type2: Ice
+  type1: Grass
+  type2: Ice
+snubbull:
+  bst: '300'
+  nf_type1: Normal
+  nf_type2: Monotype
+  type1: Fairy
+  type2: Monotype
+sobble:
+  bst: '310'
+  nf_type1: Water
+  nf_type2: Monotype
+  type1: Water
+  type2: Monotype
+solgaleo:
+  bst: '680'
+  nf_type1: Psychic
+  nf_type2: Steel
+  type1: Psychic
+  type2: Steel
+solosis:
+  bst: '290'
+  nf_type1: Psychic
+  nf_type2: Monotype
+  type1: Psychic
+  type2: Monotype
+solrock:
+  bst: '460'
+  nf_type1: Rock
+  nf_type2: Psychic
+  type1: Rock
+  type2: Psychic
+spearow:
+  bst: '262'
+  nf_type1: Normal
+  nf_type2: Flying
+  type1: Normal
+  type2: Flying
+spectrier:
+  bst: '580'
+  nf_type1: Ghost
+  nf_type2: Monotype
+  type1: Ghost
+  type2: Monotype
+spewpa:
+  bst: '213'
+  nf_type1: Bug
+  nf_type2: Monotype
+  type1: Bug
+  type2: Monotype
+spheal:
+  bst: '290'
+  nf_type1: Ice
+  nf_type2: Water
+  type1: Ice
+  type2: Water
+spidops:
+  bst: '404'
+  nf_type1: Bug
+  nf_type2: Monotype
+  type1: Bug
+  type2: Monotype
+spinarak:
+  bst: '250'
+  nf_type1: Bug
+  nf_type2: Poison
+  type1: Bug
+  type2: Poison
+spinda:
+  bst: '360'
+  nf_type1: Normal
+  nf_type2: Monotype
+  type1: Normal
+  type2: Monotype
+spiritomb:
+  bst: '485'
+  nf_type1: Ghost
+  nf_type2: Dark
+  type1: Ghost
+  type2: Dark
+spoink:
+  bst: '330'
+  nf_type1: Psychic
+  nf_type2: Monotype
+  type1: Psychic
+  type2: Monotype
+sprigatito:
+  bst: '310'
+  nf_type1: Grass
+  nf_type2: Monotype
+  type1: Grass
+  type2: Monotype
+spritzee:
+  bst: '341'
+  nf_type1: Fairy
+  nf_type2: Monotype
+  type1: Fairy
+  type2: Monotype
+squawkabilly:
+  bst: '417'
+  nf_type1: Normal
+  nf_type2: Flying
+  type1: Normal
+  type2: Flying
+squirtle:
+  bst: '314'
+  nf_type1: Water
+  nf_type2: Monotype
+  type1: Water
+  type2: Monotype
+stakataka:
+  bst: '570'
+  nf_type1: Rock
+  nf_type2: Steel
+  type1: Rock
+  type2: Steel
+stantler:
+  bst: '465'
+  nf_type1: Normal
+  nf_type2: Monotype
+  type1: Normal
+  type2: Monotype
+staraptor:
+  bst: '485'
+  nf_type1: Normal
+  nf_type2: Flying
+  type1: Normal
+  type2: Flying
+staravia:
+  bst: '340'
+  nf_type1: Normal
+  nf_type2: Flying
+  type1: Normal
+  type2: Flying
+starly:
+  bst: '245'
+  nf_type1: Normal
+  nf_type2: Flying
+  type1: Normal
+  type2: Flying
+starmie:
+  bst: '520'
+  nf_type1: Water
+  nf_type2: Psychic
+  type1: Water
+  type2: Psychic
+staryu:
+  bst: '340'
+  nf_type1: Water
+  nf_type2: Monotype
+  type1: Water
+  type2: Monotype
+steelix:
+  bst: '510'
+  nf_type1: Steel
+  nf_type2: Ground
+  type1: Steel
+  type2: Ground
+steelix mega:
+  bst: '610'
+  nf_type1: Steel
+  nf_type2: Ground
+  type1: Steel
+  type2: Ground
+steenee:
+  bst: '290'
+  nf_type1: Grass
+  nf_type2: Monotype
+  type1: Grass
+  type2: Monotype
+stonjourner:
+  bst: '470'
+  nf_type1: Rock
+  nf_type2: Monotype
+  type1: Rock
+  type2: Monotype
+stoutland:
+  bst: '500'
+  nf_type1: Normal
+  nf_type2: Monotype
+  type1: Normal
+  type2: Monotype
+stufful:
+  bst: '340'
+  nf_type1: Normal
+  nf_type2: Fighting
+  type1: Normal
+  type2: Fighting
+stunfisk:
+  bst: '471'
+  nf_type1: Ground
+  nf_type2: Electric
+  type1: Ground
+  type2: Electric
+stunfisk galarian:
+  bst: '471'
+  nf_type1: Ground
+  nf_type2: Steel
+  type1: Ground
+  type2: Steel
+stunky:
+  bst: '329'
+  nf_type1: Poison
+  nf_type2: Dark
+  type1: Poison
+  type2: Dark
+sudowoodo:
+  bst: '410'
+  nf_type1: Rock
+  nf_type2: Monotype
+  type1: Rock
+  type2: Monotype
+suicune:
+  bst: '580'
+  nf_type1: Water
+  nf_type2: Monotype
+  type1: Water
+  type2: Monotype
+sunflora:
+  bst: '425'
+  nf_type1: Grass
+  nf_type2: Monotype
+  type1: Grass
+  type2: Monotype
+sunkern:
+  bst: '180'
+  nf_type1: Grass
+  nf_type2: Monotype
+  type1: Grass
+  type2: Monotype
+surskit:
+  bst: '269'
+  nf_type1: Bug
+  nf_type2: Water
+  type1: Bug
+  type2: Water
+swablu:
+  bst: '310'
+  nf_type1: Normal
+  nf_type2: Flying
+  type1: Normal
+  type2: Flying
+swadloon:
+  bst: '380'
+  nf_type1: Bug
+  nf_type2: Grass
+  type1: Bug
+  type2: Grass
+swalot:
+  bst: '467'
+  nf_type1: Poison
+  nf_type2: Monotype
+  type1: Poison
+  type2: Monotype
+swampert:
+  bst: '535'
+  nf_type1: Water
+  nf_type2: Ground
+  type1: Water
+  type2: Ground
+swampert mega:
+  bst: '635'
+  nf_type1: Water
+  nf_type2: Ground
+  type1: Water
+  type2: Ground
+swanna:
+  bst: '473'
+  nf_type1: Water
+  nf_type2: Flying
+  type1: Water
+  type2: Flying
+swellow:
+  bst: '455'
+  nf_type1: Normal
+  nf_type2: Flying
+  type1: Normal
+  type2: Flying
+swinub:
+  bst: '250'
+  nf_type1: Ice
+  nf_type2: Ground
+  type1: Ice
+  type2: Ground
+swirlix:
+  bst: '341'
+  nf_type1: Fairy
+  nf_type2: Monotype
+  type1: Fairy
+  type2: Monotype
+swoobat:
+  bst: '425'
+  nf_type1: Psychic
+  nf_type2: Flying
+  type1: Psychic
+  type2: Flying
+sylveon:
+  bst: '525'
+  nf_type1: Fairy
+  nf_type2: Monotype
+  type1: Fairy
+  type2: Monotype
+tadbulb:
+  bst: '272'
+  nf_type1: Electric
+  nf_type2: Monotype
+  type1: Electric
+  type2: Monotype
+taillow:
+  bst: '270'
+  nf_type1: Normal
+  nf_type2: Flying
+  type1: Normal
+  type2: Flying
+talonflame:
+  bst: '499'
+  nf_type1: Fire
+  nf_type2: Flying
+  type1: Fire
+  type2: Flying
+tandemaus:
+  bst: '305'
+  nf_type1: Normal
+  nf_type2: Monotype
+  type1: Normal
+  type2: Monotype
+tangela:
+  bst: '435'
+  nf_type1: Grass
+  nf_type2: Monotype
+  type1: Grass
+  type2: Monotype
+tangrowth:
+  bst: '535'
+  nf_type1: Grass
+  nf_type2: Monotype
+  type1: Grass
+  type2: Monotype
+tapu bulu:
+  bst: '570'
+  nf_type1: Grass
+  nf_type2: Fairy
+  type1: Grass
+  type2: Fairy
+tapu fini:
+  bst: '570'
+  nf_type1: Water
+  nf_type2: Fairy
+  type1: Water
+  type2: Fairy
+tapu koko:
+  bst: '570'
+  nf_type1: Electric
+  nf_type2: Fairy
+  type1: Electric
+  type2: Fairy
+tapu lele:
+  bst: '570'
+  nf_type1: Psychic
+  nf_type2: Fairy
+  type1: Psychic
+  type2: Fairy
+tarountula:
+  bst: '210'
+  nf_type1: Bug
+  nf_type2: Monotype
+  type1: Bug
+  type2: Monotype
+tatsugiri:
+  bst: '475'
+  nf_type1: Dragon
+  nf_type2: Water
+  type1: Dragon
+  type2: Water
+tauros:
+  bst: '490'
+  nf_type1: Normal
+  nf_type2: Monotype
+  type1: Normal
+  type2: Monotype
+tauros paldean aqua:
+  bst: '490'
+  nf_type1: Fighting
+  nf_type2: Water
+  type1: Fighting
+  type2: Water
+tauros paldean blaze:
+  bst: '490'
+  nf_type1: Fighting
+  nf_type2: Fire
+  type1: Fighting
+  type2: Fire
+tauros paldean combat:
+  bst: '490'
+  nf_type1: Fighting
+  nf_type2: Monotype
+  type1: Fighting
+  type2: Monotype
+teddiursa:
+  bst: '330'
+  nf_type1: Normal
+  nf_type2: Monotype
+  type1: Normal
+  type2: Monotype
+tentacool:
+  bst: '335'
+  nf_type1: Water
+  nf_type2: Poison
+  type1: Water
+  type2: Poison
+tentacruel:
+  bst: '515'
+  nf_type1: Water
+  nf_type2: Poison
+  type1: Water
+  type2: Poison
+tepig:
+  bst: '308'
+  nf_type1: Fire
+  nf_type2: Monotype
+  type1: Fire
+  type2: Monotype
+terapagos normal:
+  bst: 450
+  nf_type1: normal
+  nf_type2: monotype
+  type1: normal
+  type2: monotype
+terapagos stellar:
+  bst: 700
+  nf_type1: normal
+  nf_type2: monotype
+  type1: normal
+  type2: monotype
+terapagos terastal:
+  bst: 600
+  nf_type1: normal
+  nf_type2: monotype
+  type1: normal
+  type2: monotype
+terrakion:
+  bst: '580'
+  nf_type1: Rock
+  nf_type2: Fighting
+  type1: Rock
+  type2: Fighting
+thievul:
+  bst: '455'
+  nf_type1: Dark
+  nf_type2: Monotype
+  type1: Dark
+  type2: Monotype
+throh:
+  bst: '465'
+  nf_type1: Fighting
+  nf_type2: Monotype
+  type1: Fighting
+  type2: Monotype
+thundurus:
+  bst: '580'
+  nf_type1: Electric
+  nf_type2: Flying
+  type1: Electric
+  type2: Flying
+thwackey:
+  bst: '420'
+  nf_type1: Grass
+  nf_type2: Monotype
+  type1: Grass
+  type2: Monotype
+timburr:
+  bst: '305'
+  nf_type1: Fighting
+  nf_type2: Monotype
+  type1: Fighting
+  type2: Monotype
+tinglu:
+  bst: '570'
+  nf_type1: Dark
+  nf_type2: Ground
+  type1: Dark
+  type2: Ground
+tinkatink:
+  bst: '297'
+  nf_type1: Fairy
+  nf_type2: Steel
+  type1: Fairy
+  type2: Steel
+tinkaton:
+  bst: '506'
+  nf_type1: Fairy
+  nf_type2: Steel
+  type1: Fairy
+  type2: Steel
+tinkatuff:
+  bst: '380'
+  nf_type1: Fairy
+  nf_type2: Steel
+  type1: Fairy
+  type2: Steel
+tirtouga:
+  bst: '355'
+  nf_type1: Water
+  nf_type2: Rock
+  type1: Water
+  type2: Rock
+toedscool:
+  bst: '335'
+  nf_type1: Ground
+  nf_type2: Grass
+  type1: Ground
+  type2: Grass
+toedscruel:
+  bst: '515'
+  nf_type1: Ground
+  nf_type2: Grass
+  type1: Ground
+  type2: Grass
+togedemaru:
+  bst: '435'
+  nf_type1: Electric
+  nf_type2: Steel
+  type1: Electric
+  type2: Steel
+togekiss:
+  bst: '545'
+  nf_type1: Normal
+  nf_type2: Flying
+  type1: Fairy
+  type2: Flying
+togepi:
+  bst: '245'
+  nf_type1: Normal
+  nf_type2: Monotype
+  type1: Fairy
+  type2: Monotype
+togetic:
+  bst: '405'
+  nf_type1: Normal
+  nf_type2: Flying
+  type1: Fairy
+  type2: Flying
+torchic:
+  bst: '310'
+  nf_type1: Fire
+  nf_type2: Monotype
+  type1: Fire
+  type2: Monotype
+torkoal:
+  bst: '470'
+  nf_type1: Fire
+  nf_type2: Monotype
+  type1: Fire
+  type2: Monotype
+tornadus:
+  bst: '580'
+  nf_type1: Flying
+  nf_type2: Monotype
+  type1: Flying
+  type2: Monotype
+torracat:
+  bst: '420'
+  nf_type1: Fire
+  nf_type2: Monotype
+  type1: Fire
+  type2: Monotype
+torterra:
+  bst: '525'
+  nf_type1: Grass
+  nf_type2: Ground
+  type1: Grass
+  type2: Ground
+totodile:
+  bst: '314'
+  nf_type1: Water
+  nf_type2: Monotype
+  type1: Water
+  type2: Monotype
+toucannon:
+  bst: '485'
+  nf_type1: Normal
+  nf_type2: Flying
+  type1: Normal
+  type2: Flying
+toxapex:
+  bst: '495'
+  nf_type1: Poison
+  nf_type2: Water
+  type1: Poison
+  type2: Water
+toxel:
+  bst: '242'
+  nf_type1: Electric
+  nf_type2: Poison
+  type1: Electric
+  type2: Poison
+toxicroak:
+  bst: '490'
+  nf_type1: Poison
+  nf_type2: Fighting
+  type1: Poison
+  type2: Fighting
+toxtricity:
+  bst: '502'
+  nf_type1: Electric
+  nf_type2: Poison
+  type1: Electric
+  type2: Poison
+tranquill:
+  bst: '358'
+  nf_type1: Normal
+  nf_type2: Flying
+  type1: Normal
+  type2: Flying
+trapinch:
+  bst: '290'
+  nf_type1: Ground
+  nf_type2: Monotype
+  type1: Ground
+  type2: Monotype
+treecko:
+  bst: '310'
+  nf_type1: Grass
+  nf_type2: Monotype
+  type1: Grass
+  type2: Monotype
+trevenant:
+  bst: '474'
+  nf_type1: Ghost
+  nf_type2: Grass
+  type1: Ghost
+  type2: Grass
+tropius:
+  bst: '460'
+  nf_type1: Grass
+  nf_type2: Flying
+  type1: Grass
+  type2: Flying
+trubbish:
+  bst: '329'
+  nf_type1: Poison
+  nf_type2: Monotype
+  type1: Poison
+  type2: Monotype
+trumbeak:
+  bst: '355'
+  nf_type1: Normal
+  nf_type2: Flying
+  type1: Normal
+  type2: Flying
+tsareena:
+  bst: '510'
+  nf_type1: Grass
+  nf_type2: Monotype
+  type1: Grass
+  type2: Monotype
+turtonator:
+  bst: '485'
+  nf_type1: Fire
+  nf_type2: Dragon
+  type1: Fire
+  type2: Dragon
+turtwig:
+  bst: '318'
+  nf_type1: Grass
+  nf_type2: Monotype
+  type1: Grass
+  type2: Monotype
+tympole:
+  bst: '294'
+  nf_type1: Water
+  nf_type2: Monotype
+  type1: Water
+  type2: Monotype
+tynamo:
+  bst: '275'
+  nf_type1: Electric
+  nf_type2: Monotype
+  type1: Electric
+  type2: Monotype
+type null:
+  bst: '534'
+  nf_type1: Normal
+  nf_type2: Monotype
+  type1: Normal
+  type2: Monotype
+typhlosion:
+  bst: '534'
+  nf_type1: Fire
+  nf_type2: Monotype
+  type1: Fire
+  type2: Monotype
+typhlosion hisuian:
+  bst: '534'
+  nf_type1: Fire
+  nf_type2: Ghost
+  type1: Fire
+  type2: Ghost
+tyranitar:
+  bst: '600'
+  nf_type1: Rock
+  nf_type2: Dark
+  type1: Rock
+  type2: Dark
+tyranitar mega:
+  bst: '700'
+  nf_type1: Rock
+  nf_type2: Dark
+  type1: Rock
+  type2: Dark
+tyrantrum:
+  bst: '521'
+  nf_type1: Rock
+  nf_type2: Dragon
+  type1: Rock
+  type2: Dragon
+tyrogue:
+  bst: '210'
+  nf_type1: Fighting
+  nf_type2: Monotype
+  type1: Fighting
+  type2: Monotype
+tyrunt:
+  bst: '362'
+  nf_type1: Rock
+  nf_type2: Dragon
+  type1: Rock
+  type2: Dragon
+umbreon:
+  bst: '525'
+  nf_type1: Dark
+  nf_type2: Monotype
+  type1: Dark
+  type2: Monotype
+unfezant:
+  bst: '488'
+  nf_type1: Normal
+  nf_type2: Flying
+  type1: Normal
+  type2: Flying
+unown:
+  bst: '336'
+  nf_type1: Psychic
+  nf_type2: Monotype
+  type1: Psychic
+  type2: Monotype
+ursaluna:
+  bst: '550'
+  nf_type1: Ground
+  nf_type2: Normal
+  type1: Ground
+  type2: Normal
+ursaring:
+  bst: '500'
+  nf_type1: Normal
+  nf_type2: Monotype
+  type1: Normal
+  type2: Monotype
+urshifu rapid strike:
+  bst: '550'
+  nf_type1: Fighting
+  nf_type2: Water
+  type1: Fighting
+  type2: Water
+urshifu single strike:
+  bst: '550'
+  nf_type1: Fighting
+  nf_type2: Dark
+  type1: Fighting
+  type2: Dark
+uxie:
+  bst: '580'
+  nf_type1: Psychic
+  nf_type2: Monotype
+  type1: Psychic
+  type2: Monotype
+vanillish:
+  bst: '395'
+  nf_type1: Ice
+  nf_type2: Monotype
+  type1: Ice
+  type2: Monotype
+vanillite:
+  bst: '305'
+  nf_type1: Ice
+  nf_type2: Monotype
+  type1: Ice
+  type2: Monotype
+vanilluxe:
+  bst: '535'
+  nf_type1: Ice
+  nf_type2: Monotype
+  type1: Ice
+  type2: Monotype
+vaporeon:
+  bst: '525'
+  nf_type1: Water
+  nf_type2: Monotype
+  type1: Water
+  type2: Monotype
+varoom:
+  bst: '300'
+  nf_type1: Steel
+  nf_type2: Poison
+  type1: Steel
+  type2: Poison
+veluza:
+  bst: '478'
+  nf_type1: Water
+  nf_type2: Psychic
+  type1: Water
+  type2: Psychic
+venipede:
+  bst: '260'
+  nf_type1: Bug
+  nf_type2: Poison
+  type1: Bug
+  type2: Poison
+venomoth:
+  bst: '450'
+  nf_type1: Bug
+  nf_type2: Poison
+  type1: Bug
+  type2: Poison
+venonat:
+  bst: '305'
+  nf_type1: Bug
+  nf_type2: Poison
+  type1: Bug
+  type2: Poison
+venusaur:
+  bst: '525'
+  nf_type1: Grass
+  nf_type2: Poison
+  type1: Grass
+  type2: Poison
+venusaur mega:
+  bst: '625'
+  nf_type1: Grass
+  nf_type2: Poison
+  type1: Grass
+  type2: Poison
+vespiquen:
+  bst: '474'
+  nf_type1: Bug
+  nf_type2: Flying
+  type1: Bug
+  type2: Flying
+vibrava:
+  bst: '340'
+  nf_type1: Ground
+  nf_type2: Dragon
+  type1: Ground
+  type2: Dragon
+victini:
+  bst: '600'
+  nf_type1: Psychic
+  nf_type2: Fire
+  type1: Psychic
+  type2: Fire
+victreebel:
+  bst: '490'
+  nf_type1: Grass
+  nf_type2: Poison
+  type1: Grass
+  type2: Poison
+vigoroth:
+  bst: '440'
+  nf_type1: Normal
+  nf_type2: Monotype
+  type1: Normal
+  type2: Monotype
+vikavolt:
+  bst: '500'
+  nf_type1: Bug
+  nf_type2: Electric
+  type1: Bug
+  type2: Electric
+vileplume:
+  bst: '490'
+  nf_type1: Grass
+  nf_type2: Poison
+  type1: Grass
+  type2: Poison
+virizion:
+  bst: '580'
+  nf_type1: Grass
+  nf_type2: Fighting
+  type1: Grass
+  type2: Fighting
+vivillon:
+  bst: '411'
+  nf_type1: Bug
+  nf_type2: Flying
+  type1: Bug
+  type2: Flying
+volbeat:
+  bst: '430'
+  nf_type1: Bug
+  nf_type2: Monotype
+  type1: Bug
+  type2: Monotype
+volcanion:
+  bst: '600'
+  nf_type1: Fire
+  nf_type2: Water
+  type1: Fire
+  type2: Water
+volcarona:
+  bst: '550'
+  nf_type1: Bug
+  nf_type2: Fire
+  type1: Bug
+  type2: Fire
+voltorb:
+  bst: '330'
+  nf_type1: Electric
+  nf_type2: Monotype
+  type1: Electric
+  type2: Monotype
+voltorb hisuian:
+  bst: '330'
+  nf_type1: Electric
+  nf_type2: Grass
+  type1: Electric
+  type2: Grass
+vullaby:
+  bst: '370'
+  nf_type1: Dark
+  nf_type2: Flying
+  type1: Dark
+  type2: Flying
+vulpix:
+  bst: '299'
+  nf_type1: Fire
+  nf_type2: Monotype
+  type1: Fire
+  type2: Monotype
+vulpix alolan:
+  bst: '299'
+  nf_type1: Ice
+  nf_type2: Monotype
+  type1: Ice
+  type2: Monotype
+wailmer:
+  bst: '400'
+  nf_type1: Water
+  nf_type2: Monotype
+  type1: Water
+  type2: Monotype
+wailord:
+  bst: '500'
+  nf_type1: Water
+  nf_type2: Monotype
+  type1: Water
+  type2: Monotype
+walking wake:
+  bst: 590
+  nf_type1: water
+  nf_type2: dragon
+  type1: water
+  type2: dragon
+walrein:
+  bst: '530'
+  nf_type1: Ice
+  nf_type2: Water
+  type1: Ice
+  type2: Water
+wartortle:
+  bst: '405'
+  nf_type1: Water
+  nf_type2: Monotype
+  type1: Water
+  type2: Monotype
+watchog:
+  bst: '420'
+  nf_type1: Normal
+  nf_type2: Monotype
+  type1: Normal
+  type2: Monotype
+wattrel:
+  bst: '280'
+  nf_type1: Electric
+  nf_type2: Flying
+  type1: Electric
+  type2: Flying
+weavile:
+  bst: '510'
+  nf_type1: Dark
+  nf_type2: Ice
+  type1: Dark
+  type2: Ice
+weedle:
+  bst: '195'
+  nf_type1: Bug
+  nf_type2: Poison
+  type1: Bug
+  type2: Poison
+weepinbell:
+  bst: '390'
+  nf_type1: Grass
+  nf_type2: Poison
+  type1: Grass
+  type2: Poison
+weezing:
+  bst: '490'
+  nf_type1: Poison
+  nf_type2: Monotype
+  type1: Poison
+  type2: Monotype
+weezing galarian:
+  bst: '490'
+  nf_type1: Poison
+  nf_type2: Fairy
+  type1: Poison
+  type2: Fairy
+whimsicott:
+  bst: '480'
+  nf_type1: Grass
+  nf_type2: Monotype
+  type1: Grass
+  type2: Fairy
+whirlipede:
+  bst: '360'
+  nf_type1: Bug
+  nf_type2: Poison
+  type1: Bug
+  type2: Poison
+whiscash:
+  bst: '468'
+  nf_type1: Water
+  nf_type2: Ground
+  type1: Water
+  type2: Ground
+whismur:
+  bst: '240'
+  nf_type1: Normal
+  nf_type2: Monotype
+  type1: Normal
+  type2: Monotype
+wigglytuff:
+  bst: '435'
+  nf_type1: Normal
+  nf_type2: Monotype
+  type1: Normal
+  type2: Fairy
+wiglett:
+  bst: '245'
+  nf_type1: Water
+  nf_type2: Monotype
+  type1: Water
+  type2: Monotype
+wimpod:
+  bst: '230'
+  nf_type1: Bug
+  nf_type2: Water
+  type1: Bug
+  type2: Water
+wingull:
+  bst: '270'
+  nf_type1: Water
+  nf_type2: Flying
+  type1: Water
+  type2: Flying
+wishiwashi school:
+  bst: '620'
+  nf_type1: Water
+  nf_type2: Monotype
+  type1: Water
+  type2: Monotype
+wishiwashi solo:
+  bst: '175'
+  nf_type1: Water
+  nf_type2: Monotype
+  type1: Water
+  type2: Monotype
+wobbuffet:
+  bst: '405'
+  nf_type1: Psychic
+  nf_type2: Monotype
+  type1: Psychic
+  type2: Monotype
+wochien:
+  bst: '570'
+  nf_type1: Dark
+  nf_type2: Grass
+  type1: Dark
+  type2: Grass
+woobat:
+  bst: '323'
+  nf_type1: Psychic
+  nf_type2: Flying
+  type1: Psychic
+  type2: Flying
+wooloo:
+  bst: '270'
+  nf_type1: Normal
+  nf_type2: Monotype
+  type1: Normal
+  type2: Monotype
+wooper:
+  bst: '210'
+  nf_type1: Water
+  nf_type2: Ground
+  type1: Water
+  type2: Ground
+wooper paldean:
+  bst: '210'
+  nf_type1: Poison
+  nf_type2: Ground
+  type1: Poison
+  type2: Ground
+wormadam plant:
+  bst: '424'
+  nf_type1: Bug
+  nf_type2: Grass
+  type1: Bug
+  type2: Grass
+wormadam sandy:
+  bst: '424'
+  nf_type1: Bug
+  nf_type2: Ground
+  type1: Bug
+  type2: Ground
+wormadam trash:
+  bst: '424'
+  nf_type1: Bug
+  nf_type2: Steel
+  type1: Bug
+  type2: Steel
+wugtrio:
+  bst: '425'
+  nf_type1: Water
+  nf_type2: Monotype
+  type1: Water
+  type2: Monotype
+wurmple:
+  bst: '195'
+  nf_type1: Bug
+  nf_type2: Monotype
+  type1: Bug
+  type2: Monotype
+wynaut:
+  bst: '260'
+  nf_type1: Psychic
+  nf_type2: Monotype
+  type1: Psychic
+  type2: Monotype
+wyrdeer:
+  bst: '525'
+  nf_type1: Normal
+  nf_type2: Psychic
+  type1: Normal
+  type2: Psychic
+xatu:
+  bst: '470'
+  nf_type1: Psychic
+  nf_type2: Flying
+  type1: Psychic
+  type2: Flying
+xerneas:
+  bst: '680'
+  nf_type1: Fairy
+  nf_type2: Monotype
+  type1: Fairy
+  type2: Monotype
+xurkitree:
+  bst: '570'
+  nf_type1: Electric
+  nf_type2: Monotype
+  type1: Electric
+  type2: Monotype
+yamask:
+  bst: '303'
+  nf_type1: Ghost
+  nf_type2: Monotype
+  type1: Ghost
+  type2: Monotype
+yamask galarian:
+  bst: '303'
+  nf_type1: Ground
+  nf_type2: Ghost
+  type1: Ground
+  type2: Ghost
+yamper:
+  bst: '270'
+  nf_type1: Electric
+  nf_type2: Monotype
+  type1: Electric
+  type2: Monotype
+yanma:
+  bst: '390'
+  nf_type1: Bug
+  nf_type2: Flying
+  type1: Bug
+  type2: Flying
+yanmega:
+  bst: '515'
+  nf_type1: Bug
+  nf_type2: Flying
+  type1: Bug
+  type2: Flying
+yungoos:
+  bst: '253'
+  nf_type1: Normal
+  nf_type2: Monotype
+  type1: Normal
+  type2: Monotype
+yveltal:
+  bst: '680'
+  nf_type1: Dark
+  nf_type2: Flying
+  type1: Dark
+  type2: Flying
+zacian crowned:
+  bst: '700'
+  nf_type1: Fairy
+  nf_type2: Steel
+  type1: Fairy
+  type2: Steel
+zacian hero:
+  bst: '660'
+  nf_type1: Fairy
+  nf_type2: Monotype
+  type1: Fairy
+  type2: Monotype
+zamazenta crowned:
+  bst: '700'
+  nf_type1: Fighting
+  nf_type2: Steel
+  type1: Fighting
+  type2: Steel
+zamazenta hero:
+  bst: '660'
+  nf_type1: Fighting
+  nf_type2: Monotype
+  type1: Fighting
+  type2: Monotype
+zangoose:
+  bst: '458'
+  nf_type1: Normal
+  nf_type2: Monotype
+  type1: Normal
+  type2: Monotype
+zapdos:
+  bst: '580'
+  nf_type1: Electric
+  nf_type2: Flying
+  type1: Electric
+  type2: Flying
+zapdos galarian:
+  bst: '580'
+  nf_type1: Fighting
+  nf_type2: Flying
+  type1: Fighting
+  type2: Flying
+zarude:
+  bst: '600'
+  nf_type1: Dark
+  nf_type2: Grass
+  type1: Dark
+  type2: Grass
+zebstrika:
+  bst: '497'
+  nf_type1: Electric
+  nf_type2: Monotype
+  type1: Electric
+  type2: Monotype
+zekrom:
+  bst: '680'
+  nf_type1: Dragon
+  nf_type2: Electric
+  type1: Dragon
+  type2: Electric
+zeraora:
+  bst: '600'
+  nf_type1: Electric
+  nf_type2: Monotype
+  type1: Electric
+  type2: Monotype
+zigzagoon:
+  bst: '240'
+  nf_type1: Normal
+  nf_type2: Monotype
+  type1: Normal
+  type2: Monotype
+zigzagoon galarian:
+  bst: '240'
+  nf_type1: Dark
+  nf_type2: Normal
+  type1: Dark
+  type2: Normal
+zoroark:
+  bst: '510'
+  nf_type1: Dark
+  nf_type2: Monotype
+  type1: Dark
+  type2: Monotype
+zoroark hisuian:
+  bst: '510'
+  nf_type1: Normal
+  nf_type2: Ghost
+  type1: Normal
+  type2: Ghost
+zorua:
+  bst: '330'
+  nf_type1: Dark
+  nf_type2: Monotype
+  type1: Dark
+  type2: Monotype
+zorua hisuian:
+  bst: '330'
+  nf_type1: Normal
+  nf_type2: Ghost
+  type1: Normal
+  type2: Ghost
+zubat:
+  bst: '245'
+  nf_type1: Poison
+  nf_type2: Flying
+  type1: Poison
+  type2: Flying
+zweilous:
+  bst: '420'
+  nf_type1: Dark
+  nf_type2: Dragon
+  type1: Dark
+  type2: Dragon
+zygarde 10:
+  bst: '486'
+  nf_type1: Dragon
+  nf_type2: Ground
+  type1: Dragon
+  type2: Ground
+zygarde 50:
+  bst: '600'
+  nf_type1: Dragon
+  nf_type2: Ground
+  type1: Dragon
+  type2: Ground
+zygarde complete:
+  bst: '708'
+  nf_type1: Dragon
+  nf_type2: Ground
+  type1: Dragon
+  type2: Ground
